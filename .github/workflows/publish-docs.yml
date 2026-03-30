@@ -18,4 +18,4 @@ jobs:
       - name: Publish Docs
         run: fern generate --docs
         env:
-          FERN_TOKEN: ${{ secrets.FERN_TOKEN }}
+          FERN_TOKEN: ${{ secrets.FERN_KB_SECRET }}
