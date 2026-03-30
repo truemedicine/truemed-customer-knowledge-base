@@ -1,0 +1,26 @@
+instances:
+  - url: truemed-support.docs.buildwithfern.com
+
+title: Truemed Help Center
+
+navigation:
+  - section: Getting Started
+    contents:
+      - page: Overview
+        path: ./pages/overview.mdx
+```
+- Commit directly to main
+
+---
+
+**3. Add your first page**
+
+- **"Add file"** → **"Create new file"**
+- Filename: `fern/pages/overview.mdx`
+- Content:
+```
+---
+title: Overview
+---
+
+Welcome to the Truemed Help Center.
