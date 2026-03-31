@@ -1,3 +1,7 @@
+---
+title: "Enabling the Truemed Payment App"
+---
+
 This will be the last step to installing the payment app on your live onboarding call. After you click Activate, the app will be live and customers checkout using HSA/FSA funds immediately.
 
 You should leave the Visa, Mastercard, and American Express toggles on - this allows us to also process non-HSA/FSA cards in the cases of insufficient funds or HSA/FSA cards being declined for any other reason. In this flow, we give customers instructions to reimburse using the LMN we issue post-purchase. We cover the credit card processing fees for these transactions! 

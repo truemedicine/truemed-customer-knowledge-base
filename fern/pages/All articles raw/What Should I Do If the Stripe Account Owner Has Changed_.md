@@ -1,3 +1,7 @@
+---
+title: "What Should I Do If the Stripe Account Owner Has Changed_"
+---
+
 If the original Stripe account owner is no longer with your company, **Truemed cannot update ownership or account permissions on your behalf**. These changes must be handled directly with Stripe.
 
 ### **Next Steps:**

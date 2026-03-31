@@ -1,3 +1,7 @@
+---
+title: "Can Truemed Issue a Letter of Medical Necessity for Purchases Made Through Third-Party Financing or Installment Plans_"
+---
+
 Yes — if you’re purchasing a product or service using third-party financing or an installment plan (such as Affirm, Klarna, Afterpay, or a direct payment plan with a merchant), **Truemed can still issue a Letter of Medical Necessity (LMN)** to help support your HSA/FSA reimbursement.
 
 ### Here’s How It Works

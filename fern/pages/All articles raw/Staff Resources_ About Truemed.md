@@ -1,3 +1,7 @@
+---
+title: "Staff Resources_ About Truemed"
+---
+
 Prior to launch, brief your team internally about Truemed. Once all key stakeholders have read through this guide, you are all set to begin your Truemed rollout.
 
 ---

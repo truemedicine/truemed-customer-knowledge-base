@@ -1,3 +1,7 @@
+---
+title: "How Do I Update the Payout Account Linked to My Truemed Account_"
+---
+
 If you need to change the bank account receiving Truemed payouts, you can update it directly through your **Truemed-linked Stripe account**.
 
 ### **Steps to Update Your Bank Account:**

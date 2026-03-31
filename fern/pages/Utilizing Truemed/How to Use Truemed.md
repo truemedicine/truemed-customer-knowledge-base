@@ -1,3 +1,7 @@
+---
+title: "How to Use Truemed"
+---
+
 To utilize Truemed, utilize these three simple steps! 
 
 ## Step #1: Review HSA/FSA details 
@@ -6,7 +10,7 @@ The first step is to confirm that you currently have an HSA/FSA account. If you 
 
 ## Step #2: Visit the “For Shoppers” page of the Truemed website 
 
-Here you will find a list of merchants who have completed our compliance evaluation: <https://www.truemed.com/>
+Here you will find a list of merchants who have completed our compliance evaluation: 
 
 ## Step #3: Follow the steps listed on the specific merchant’s page
 

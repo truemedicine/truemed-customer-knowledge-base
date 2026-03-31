@@ -1,3 +1,7 @@
+---
+title: "Accessing My Letter of Medical Necessity"
+---
+
 ## 📄 Accessing Your Letter of Medical Necessity (LMN)
 
 If you're looking for a copy of your Letter of Medical Necessity (LMN), here's how to access it!

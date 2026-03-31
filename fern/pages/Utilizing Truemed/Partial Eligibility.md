@@ -1,3 +1,7 @@
+---
+title: "Partial Eligibility"
+---
+
 ### **\
 Understanding Partial HSA/FSA Eligibility for Your Purchases**
 

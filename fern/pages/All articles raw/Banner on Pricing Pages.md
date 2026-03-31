@@ -1,3 +1,7 @@
+---
+title: "Banner on Pricing Pages"
+---
+
 Sharing the savings benefit on pricing pages can help convert price sensitive new members, improve retention, and help to encourage greater spend by current members (by giving them more buying power!).
 
 ## **Banner Copy**

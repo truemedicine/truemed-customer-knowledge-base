@@ -1,3 +1,7 @@
+---
+title: "Do HSA_FSA Reimbursement Claims Require a Tax ID_TIN_"
+---
+
 When submitting an HSA or FSA reimbursement claim, you might sometimes see a request for a Tax ID (TIN). This is a common point of confusion-here’s what you need to know.
 
 ---

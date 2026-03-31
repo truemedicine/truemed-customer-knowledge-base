@@ -1,3 +1,7 @@
+---
+title: "Basic Quick Guide_ Submitting HSA_FSA Claims through Basic"
+---
+
 This guide outlines the steps to submit your HSA and FSA reimbursement claims through Basic. When submitting reimbursements, be sure to include your receipt and Truemed Letter of Medical Necessity.
 
 ---

@@ -1,3 +1,7 @@
+---
+title: "If I Exchange a Product, Can I Still Use My LMN for HSA_FSA Reimbursement_"
+---
+
 If you used an HSA or FSA to get reimbursed for a product and later need to exchange it, you may be wondering whether your Letter of Medical Necessity (LMN) still applies or whether you’ll need to go through the process again. Here’s what you need to know.
 
 ### Can I use the same LMN for the exchanged item?

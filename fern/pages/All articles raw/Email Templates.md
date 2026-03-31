@@ -1,3 +1,7 @@
+---
+title: "Email Templates"
+---
+
 Inform your current customers  that they may now qualify to use their HSA/FSA funds for purchases. Case studies have shown that open rates and CTRs for this promotional email are typically an order of magnitude higher than standard marketing material.
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/8a37d79e-c7d1-4927-aff3-08839f2f46c9.png)**Sample Subject Lines**

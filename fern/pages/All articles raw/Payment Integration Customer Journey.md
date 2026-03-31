@@ -1,3 +1,7 @@
+---
+title: "Payment Integration Customer Journey"
+---
+
 ## **Experience the Truemed Checkout Process**
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/f869bab5-b8a4-4596-84b1-4727e77937e3.png)**Watch the demo [here](https://app.trupeer.ai/view/OWd75QlwP).**

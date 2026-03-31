@@ -1,3 +1,7 @@
+---
+title: "Abandoned Cart Campaigns"
+---
+
 Many shoppers abandon their carts due to price hesitation or uncertainty. Highlighting that your products may be HSA/FSA eligible—allowing customers to save an average of 30% with pre-tax dollars—can re-engage them and encourage completion of purchase.
 
 ## **Sample Subject Lines**

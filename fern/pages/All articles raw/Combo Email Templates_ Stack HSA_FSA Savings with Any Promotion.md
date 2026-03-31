@@ -1,3 +1,7 @@
+---
+title: "Combo Email Templates_ Stack HSA_FSA Savings with Any Promotion"
+---
+
 No matter the season, your promotions are powerful opportunities to boost conversion—and even more so when paired with HSA/FSA eligibility. By highlighting that eligible customers can use pre-tax HSA/FSA funds *in addition to* your existing promo, you empower them to save an average of 30% on top of your offer.
 
 Below are plug-and-play email templates you can adapt for any sale or seasonal campaign—whether it’s a summer sale, product launch, or New Year promotion. Each includes one-time purchase and subscription purchase versions for checkout flows that differ.

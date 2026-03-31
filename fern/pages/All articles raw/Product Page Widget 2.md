@@ -1,3 +1,7 @@
+---
+title: "Product Page Widget 2"
+---
+
 ### **Overview**
 
 This widget educates customers about HSA/FSA eligibility, and indicates that they might qualify for HSA/FSA spending or reimbursement with their purchase.
@@ -17,7 +21,7 @@ It should be installed on your product pages, typically near the price or "Add t
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/c70d0879-7e09-4bfe-bfa1-b6e303f68507.png)1. Click **“Add block”**, then insert these 2 lines of HTML on your site, typically near the "Buy" or "Add to Cart" buttons (make sure to replace `YOUR_PUBLIC_QUALIFICATION_ID` with the ID found in Step 1):
 
    ```
-<div id="truemed-instructions" style="font-size: 14px;" icon-height="12" data-public-id="YOUR_PUBLIC_QUALIFICATION_ID"></div>
+
 <script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
 ```
 
@@ -32,7 +36,7 @@ style="font-size: 16px; margin-top: 7px; margin-bottom: 10px; font-family: Poppi
 For pages with black or dark backgrounds, add the attribute `dark-mode` to enable a white Truemed logo. Update the text color within the `style` property:
 
 ```
-<div dark-mode id="truemed-instructions" style="font-size: 14px;" icon-height="12" data-public-id="YOUR_PUBLIC_QUALIFICATION_ID"></div>
+
 <script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
 ```
 
@@ -47,14 +51,14 @@ For pages with black or dark backgrounds, add the attribute `dark-mode` to ena
 To only display the widget for products *with* the tag `'truemed-eligible'`:
 
 ```
-<div shopify-tags="display-if-eligible" id="truemed-instructions" style="font-size: 14px;" icon-height="12" data-public-id="YOUR_PUBLIC_QUALIFICATION_ID"></div>
+
 <script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
 ```
 
 To only display the widget for products *without* the tag `'truemed-ineligible'`:
 
 ```
-<div shopify-tags="display-unless-ineligible" id="truemed-instructions" style="font-size: 14px;" icon-height="12" data-public-id="YOUR_PUBLIC_QUALIFICATION_ID"></div>
+
 <script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
 ```
 

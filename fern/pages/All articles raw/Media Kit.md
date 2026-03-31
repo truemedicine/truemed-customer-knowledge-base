@@ -1,3 +1,7 @@
+---
+title: "Media Kit"
+---
+
 Below, find our Media Kit to easily download all of our assets **⬇️**
 
 > [**Media Kit & Brand Guidelines**](https://truemedicine.notion.site/Truemed-Assets-for-Partners-Press-Media-Creators-November-2025-2a119734f24580f4972ee40ce4179754)

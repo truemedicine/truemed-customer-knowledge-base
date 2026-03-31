@@ -1,3 +1,7 @@
+---
+title: "Step 3_ LMN & Documentation FAQs"
+---
+
 ### **Your Customer Never Received their Letter of Medical Necessity**
 
 If it has been over 48-hours and you have not received a copy of your letter of medical necessity...

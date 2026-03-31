@@ -1,3 +1,7 @@
+---
+title: "Truemed Dashboard_ Updating Your Card on File"
+---
+
 Please sign in to app.truemed.com, and in the top right select "settings". From the "settings" page, select "payment method". You will then be able to change your payment method. \
 \
 Note: Only account owners can update payment methods. 

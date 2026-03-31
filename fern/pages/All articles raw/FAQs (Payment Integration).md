@@ -1,3 +1,7 @@
+---
+title: "FAQs (Payment Integration)"
+---
+
 These FAQs are intended for our merchant partners using our Shopify or custom integration.
 
 ---

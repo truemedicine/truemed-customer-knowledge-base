@@ -1,3 +1,7 @@
+---
+title: "Updating Account Details"
+---
+
 To update your Stripe account details:
 
 1. Log into your Truemed-specific Stripe account

@@ -1,3 +1,7 @@
+---
+title: "Can I Use My LMN for a Purchase at a Different Merchant_"
+---
+
 **Short Answer:**\
 No – an LMN is specific to the business and its products or services. To remain compliant with IRS guidelines, you generally need a separate LMN for each individual business you intend to utilize.
 

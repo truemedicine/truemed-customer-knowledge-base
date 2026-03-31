@@ -1,3 +1,7 @@
+---
+title: "In-Studio QR Code Flyer"
+---
+
 **How long should this take?**
 
 45 minutes

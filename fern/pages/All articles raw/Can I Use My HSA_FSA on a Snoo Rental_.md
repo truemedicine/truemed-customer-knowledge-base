@@ -1,3 +1,7 @@
+---
+title: "Can I Use My HSA_FSA on a Snoo Rental_"
+---
+
 **Short Answer:**\
 Yes—you can use your HSA/FSA funds for a Happiest Baby (Snoo) rental by following a few specific steps. Note that for rentals, the process is slightly different from purchasing the Snoo outright.
 

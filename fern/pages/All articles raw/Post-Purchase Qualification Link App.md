@@ -1,3 +1,7 @@
+---
+title: "Post-Purchase Qualification Link App"
+---
+
 Part of an exemplary Truemed Qualifications implementation includes offering customers a Qualification Link in your store's Order Confirmation page. Previously, this was accomplished by adding a custom code snippet using **"Additional Scripts"**. However, with the launch of **Checkout Extensibility**, this option has been disabled.
 
 **What is Checkout Extensibility?** Shopify’s Checkout Extensibility is a new framework that enhances customization and security while ensuring compatibility with Shopify’s latest updates. Instead of manually inserting scripts, merchants now use **checkout extensions and Shopify Functions** to customize their checkout experience.

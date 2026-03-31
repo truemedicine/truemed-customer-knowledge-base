@@ -1,3 +1,7 @@
+---
+title: "What Fraud Protection Does Truemed Provide for Merchants_"
+---
+
 Truemed uses Stripe’s industry-standard fraud prevention tools to help protect your store from fraudulent transactions.
 
 Fraud Protection Measures:

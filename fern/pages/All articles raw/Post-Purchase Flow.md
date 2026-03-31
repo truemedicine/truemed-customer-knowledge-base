@@ -1,3 +1,7 @@
+---
+title: "Post-Purchase Flow"
+---
+
 Post-purchase emails are a great moment to confirm next steps, educate on reimbursement, and reinforce the added value of buying with HSA/FSA dollars.
 
 ## Sample Post-Purchase Flow Email 

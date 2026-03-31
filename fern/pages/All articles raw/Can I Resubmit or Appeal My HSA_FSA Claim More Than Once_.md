@@ -1,3 +1,7 @@
+---
+title: "Can I Resubmit or Appeal My HSA_FSA Claim More Than Once_"
+---
+
 If your HSA or FSA claim is denied, you may be able to appeal or resubmit it. How often and how many times depends on the type of account you have and the rules set by your plan administrator.
 
 ### Understand the Type of Account You Have

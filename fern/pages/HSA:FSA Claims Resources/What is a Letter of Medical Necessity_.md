@@ -1,3 +1,7 @@
+---
+title: "What is a Letter of Medical Necessity_"
+---
+
 A Letter of Medical Necessity (LMN) is a formal document that a licensed healthcare provider writes to explain why a specific treatment, product, or service is essential for a patient's health. 
 
 A health plan may request an LMN as part of a certification or utilization review process to determine if a requested medical expense is covered. Health insurance providers, health savings accounts (HSAs), or flexible spending accounts (FSAs) may also request an LMN before reimbursing an expense.

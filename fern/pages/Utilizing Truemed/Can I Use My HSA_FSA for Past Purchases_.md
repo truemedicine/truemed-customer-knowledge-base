@@ -1,3 +1,7 @@
+---
+title: "Can I Use My HSA_FSA for Past Purchases_"
+---
+
 **Short Answer:**\
 No – HSA/FSA reimbursement is tied to the date on your Letter of Medical Necessity (LMN), which reflects your condition at the time of evaluation. Without completing the clinical intake survey on or before your purchase date, you cannot retroactively apply an LMN to past purchases.
 

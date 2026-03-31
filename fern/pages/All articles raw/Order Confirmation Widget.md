@@ -1,3 +1,7 @@
+---
+title: "Order Confirmation Widget"
+---
+
 *These instructions are specific to reimbursement implementations. They are not necessary to support the Truemed payment app.*
 
 ### **Encourage HSA / FSA reimbursement immediately post-purchase**
@@ -22,7 +26,7 @@ Truemed provides a custom widget to make this very simple for Shopify stores, bu
 3) Paste the following into the box for `Order status page` (remember to replace `YOUR_QUALIFICATION_LINK` with the link found in Step 1):
 
    ```
-<div id="truemed-reimburse" data-url="YOUR_QUALIFICATION_LINK"></div>
+
 <script src="https://truemed-public.s3.us-west-1.amazonaws.com/truemed-ads/confirmation-widget-v1.1.min.js"></script>
 ```
 
@@ -35,5 +39,5 @@ It's also easy to add this CTA on any store:
 2. On your post-purchase page, add a CTA with the following code:
 
    ```
-<p>This order might be eligible for HSA/FSA reimbursement. <a href="YOUR_QUALIFICATION_LINK?source=post_purchase">Get Reimbursed</a>.</p>
+This order might be eligible for HSA/FSA reimbursement. Get Reimbursed.
 ```

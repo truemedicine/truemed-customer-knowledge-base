@@ -1,3 +1,7 @@
+---
+title: "Step 5_ Learning About Partial Eligibility"
+---
+
 Truemed's partial eligibility functionality enables support for merchants offering products that qualify for HSA/FSA reimbursement only in part. This is relevant for products like mattresses, which are considered necessary household items. As a result, **only the incremental cost associated with the mattress’s additional health benefits**—beyond what a standard mattress provides—is eligible for reimbursement.
 
 ## **How it works**

@@ -1,3 +1,7 @@
+---
+title: "Social Channels"
+---
+
 Use these social-ready templates to inform, educate, and convert with your new HSA/FSA payment option[.](http://option.in/) In this guide, you’ll find approved captions, image prompts, and posting tips that align with Truemed’s compliance standards—including how to use phrases like “save an average of 30% with HSA/FSA” when paired with our required disclaimer.
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/a1336e97-6759-44a0-a7f3-df427d7cb80e.png)## **Compliant Headlines:**

@@ -1,3 +1,7 @@
+---
+title: "Why Was My Card Declined at Checkout- Insufficient funds"
+---
+
 # Why Was My Card Declined at Checkout?
 
 If you received a message that your card was **declined due to insufficient funds**, we understand how frustrating that can be. This article will walk you through what’s happening, why it happens, and what you can do next — whether you want to retry your purchase now or seek reimbursement later.

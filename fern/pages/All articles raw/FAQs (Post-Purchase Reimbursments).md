@@ -1,3 +1,7 @@
+---
+title: "FAQs (Post-Purchase Reimbursments)"
+---
+
 This FAQ is intended for Truemed partner merchants who do not have our payment integration, and rather use our post-purchase reimbursement flow.
 
 ---

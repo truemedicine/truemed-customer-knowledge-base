@@ -1,3 +1,7 @@
+---
+title: "Seasonal SMS Campaigns"
+---
+
 ***Increase conversion across key moments with short, high-impact texts.***
 
 *SMS is one of the fastest ways to drive action during seasonal spending opportunities. Pair it with your email, site, and social efforts to reinforce urgency and boost ROI.*

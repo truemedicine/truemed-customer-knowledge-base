@@ -1,3 +1,7 @@
+---
+title: "Q4 Promotion"
+---
+
 Q4 is the make-or-break season for retailers, with a staggering **nearly 30% of annual retail sales** occurring in the final quarter of the year—meaning the next few months could account for a huge chunk of your yearly revenue! Here you'll find our best tips to maximize potential revenue
 
 ---

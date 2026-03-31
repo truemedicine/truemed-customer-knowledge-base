@@ -1,3 +1,7 @@
+---
+title: "Multicard Checkout_ Split Payments with HSA_FSA & Personal Cards"
+---
+
 We’re excited to announce the launch of **Truemed’s new checkout experience**: **Multicard Checkout** — a seamless way for customers to split their payment between an HSA/FSA card and a personal debit or credit card.
 
 This feature is designed to reduce failed payments and abandoned checkouts, whether a customer is purchasing fully eligible items or a mix of eligible and ineligible ones.

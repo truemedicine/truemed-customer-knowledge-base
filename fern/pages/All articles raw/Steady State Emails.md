@@ -1,3 +1,7 @@
+---
+title: "Steady State Emails"
+---
+
 Regularly reminding consumers of your products' HSA/FSA eligibility encourages them to **use—and even fund—these accounts**, expanding your base of HSA/FSA-funded customers and setting the stage for long-term growth.
 
 Merchants who consistently send HSA/FSA-focused emails see:

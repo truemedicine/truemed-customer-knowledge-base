@@ -1,3 +1,7 @@
+---
+title: "Email Headers & Footers"
+---
+
 Adding HSA/FSA language to your email templates is one of the easiest ways to increase awareness and drive conversion. Merchants who consistently include this messaging see higher engagement and more reimbursed purchases.
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/074904a5-d061-43f8-8bdd-d3d19c385967.png)

@@ -1,3 +1,7 @@
+---
+title: "Are there any administrators that do not accept updated LMNs or documentation after an initial denial_"
+---
+
 Most Health Savings Account (HSA) and Flexible Spending Account (FSA) administrators permit the submission of updated documentation, such as a revised Letter of Medical Necessity (LMN), following an initial claim denial. However, policies can vary, and some administrators may have restrictions or specific procedures regarding the acceptance of additional documentation after a denial.
 
 ### FSA Administrators

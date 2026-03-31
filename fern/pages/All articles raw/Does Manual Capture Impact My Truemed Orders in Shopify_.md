@@ -1,3 +1,7 @@
+---
+title: "Does Manual Capture Impact My Truemed Orders in Shopify_"
+---
+
 If you’re **not using manual capture** in Shopify, Truemed will work as expected and no action is required.
 
 ### **What Is Manual Capture?**

@@ -1,3 +1,7 @@
+---
+title: "WEX Quick Guide_ Submitting HSA_FSA Claims through WEX"
+---
+
 This guide outlines the steps to request a reimbursement for your HSA/FSA claims via Wex. For additional details, refer to the following resources:
 
 - **Online FAQ:**[How to request a Health Savings Account (HSA) distribution in your online account](https://wexbenefitskb.egain.cloud/system/templates/selfservice/dbinv/help/customer/locale/en-US/portal/308900000001012/content/PROD-2144/How-to-request-a-health-savings-account-HSA-distribution-in-your-online-account)

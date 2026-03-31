@@ -1,3 +1,7 @@
+---
+title: "Can I Change My LMN After It’s Issued_"
+---
+
 **Short Answer:** Some changes to an LMN may be possible—such as updating the diagnosis, adding a product, or including additional supporting details—but each request must be made by our independent, licensed third-party partner providers. Certain elements, like the merchant name and the issue date, **cannot** be changed once the LMN has been generated.
 
 ---

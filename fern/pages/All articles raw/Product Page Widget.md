@@ -1,3 +1,7 @@
+---
+title: "Product Page Widget"
+---
+
 ### **\
 Overview**
 
@@ -20,7 +24,7 @@ It should be installed on your product pages, typically near the price or "Add t
 3. Click **“Add block”**, then insert these 2 lines of HTML on your site, typically near the "Buy" or "Add to Cart" buttons (make sure to replace `YOUR_PUBLIC_QUALIFICATION_ID` with the ID found in Step 1):
 
    ```
-<div id="truemed-instructions" style="font-size: 14px;" icon-height="12" data-public-id="YOUR_PUBLIC_QUALIFICATION_ID"></div>
+
 <script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
 ```
 
@@ -35,7 +39,7 @@ style="font-size: 16px; margin-top: 7px; margin-bottom: 10px; font-family: Poppi
 For pages with black or dark backgrounds, add the attribute `dark-mode` to enable a white Truemed logo. Update the text color within the `style` property:
 
 ```
-<div dark-mode id="truemed-instructions" style="font-size: 14px;" icon-height="12" data-public-id="YOUR_PUBLIC_QUALIFICATION_ID"></div>
+
 <script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
 ```
 
@@ -50,14 +54,14 @@ For pages with black or dark backgrounds, add the attribute `dark-mode` to ena
 To only display the widget for products *with* the tag `'truemed-eligible'`:
 
 ```
-<div shopify-tags="display-if-eligible" id="truemed-instructions" style="font-size: 14px;" icon-height="12" data-public-id="YOUR_PUBLIC_QUALIFICATION_ID"></div>
+
 <script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
 ```
 
 To only display the widget for products *without* the tag `'truemed-ineligible'`:
 
 ```
-<div shopify-tags="display-unless-ineligible" id="truemed-instructions" style="font-size: 14px;" icon-height="12" data-public-id="YOUR_PUBLIC_QUALIFICATION_ID"></div>
+
 <script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
 ```
 

@@ -1,3 +1,7 @@
+---
+title: "How to Upload and Manage Your SKUs in the Truemed Portal"
+---
+
 If a customer sees a new product marked as ineligible during checkout, don’t worry—this often means your latest product catalog hasn’t been reviewed yet.
 
 To ensure your customers can pay with HSA/FSA funds at checkout, it’s essential to keep your product catalog up to date. With the latest update to your Truemed portal, managing eligibility is now faster and easier—no more back-and-forth emails.

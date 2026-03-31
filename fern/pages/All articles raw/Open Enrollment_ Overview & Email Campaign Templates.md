@@ -1,3 +1,7 @@
+---
+title: "Open Enrollment_ Overview & Email Campaign Templates"
+---
+
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/3b515c0b-8bdc-40cf-8019-f6d630985459.png)Open Enrollment is one of the most important—but overlooked—opportunities to educate your customers about Health Savings Accounts (HSAs) and Flexible Spending Accounts (FSAs). When customers understand how these benefits work, they're more likely to open HSA/FSA accounts, and allocate funds with spending on your products in mind
 

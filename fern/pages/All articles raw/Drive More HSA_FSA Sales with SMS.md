@@ -1,3 +1,7 @@
+---
+title: "Drive More HSA_FSA Sales with SMS"
+---
+
 SMS is one of the most effective ways to remind customers they can use their HSA/FSA funds with your brand. It’s fast, high-converting, and perfect for quick updates—especially when customers are low on time or unaware of their benefits.
 
 Note: Looking for SMS templates for Open Enrollment, Black Friday, Cyber Monday, End-of-year, or January (New Year, New You)? Explore our [**Seasonal SMS Templates**](/en/articles/7223489). 

@@ -1,3 +1,7 @@
+---
+title: "What are the eligibility requirements for specific gym memberships not listed on the Truemed website_"
+---
+
 Truemed does offer Letters of Medical Necessity (LMNs) for **general gym memberships**-even if the gym is *not* a listed Truemed partner. However, there are a few important details to keep in mind when using this type of LMN.
 
 ### Can I Use a Generic LMN at Any Gym?

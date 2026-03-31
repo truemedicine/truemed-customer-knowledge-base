@@ -1,3 +1,7 @@
+---
+title: "Quick Start Guide"
+---
+
 Truemed provides a unique opportunity to unlock additional value in the benefits you are already offering and getting started is as easy as 1, 2, 3.
 
 ### **1. Get to Know Truemed**

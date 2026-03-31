@@ -1,3 +1,7 @@
+---
+title: "Post-Purchase Email Snippet"
+---
+
 *These instructions are specific to reimbursement implementations. They are not necessary to support the Truemed payment app.*
 
 **Encourage HSA / FSA reimbursement immediately post-purchase**
@@ -27,7 +31,8 @@ For example, an email might look like this:
   {{% endunless %}}
 {{% endfor %}}
 
-<p>This order might be eligible for HSA/FSA reimbursement.<a href="YOUR_QUALIFICATION_LINK?source=receipt_email_1&skus={{{{ skus | url_encode }}}}"> Qualify Here</a></p><br>
+This order might be eligible for HSA/FSA reimbursement. Qualify Here
+
 ```
 
 On the standard Shopify template it could look something like this:
@@ -45,5 +50,6 @@ On the standard Shopify template it could look something like this:
 2. Place the following code snippet in your post-purchase email template. Customers have a better experience if you append SKUs to your qualification link according to [this guide](/en/articles/3634049#sku_information). 
 
 ```
-<p>This order might be eligible for HSA/FSA reimbursement. <a href="YOUR_QUALIFICATION_LINK?source=receipt_email_1">Qualify here</a>.</p><br>
+This order might be eligible for HSA/FSA reimbursement. Qualify here.
+
 ```

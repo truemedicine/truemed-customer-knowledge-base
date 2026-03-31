@@ -1,3 +1,7 @@
+---
+title: "Product Education _ How-To Emails"
+---
+
 Product guides and how-to emails are an ideal place to reinforce the added value of HSA/FSA eligibility for health and wellness products.
 
 ## Sample Copy for Product Education Emails

@@ -1,3 +1,7 @@
+---
+title: "What Happens If My HSA_FSA Refund Was Sent to a Closed Account_"
+---
+
 If you requested a refund for a purchase made with your HSA or FSA card and that account is now closed, unfortunately, **Truemed is not able to assist further** once the refund has been issued. This can be a frustrating situation, so here’s what you need to know.
 
 ### Refunds Must Go Back to the Original Payment Method

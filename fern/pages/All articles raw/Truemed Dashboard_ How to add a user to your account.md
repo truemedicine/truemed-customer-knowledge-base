@@ -1,3 +1,7 @@
+---
+title: "Truemed Dashboard_ How to add a user to your account"
+---
+
 Truemed now lets you control who has access to your merchant portal, and allows you to add and remove team members from your portal. To add a user to your Truemed merchant account, follow the steps below. Only Owners can invite or remove team members.
 
 ## **User Roles**

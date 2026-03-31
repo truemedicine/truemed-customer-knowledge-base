@@ -1,3 +1,7 @@
+---
+title: "The Customer Journey"
+---
+
 See each step that your customers will take to use their HSA/FSA with your business.
 
 After reviewing, be sure to check out:

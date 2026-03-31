@@ -1,13 +1,7 @@
 ---
-
-### **Bank of America (HSA/FSA)**
-
-- **Resubmission**: You typically have **10 to 30 days** to provide additional documentation following a denial.
-- **Appeals**: No formal public timeline, but members are encouraged to contact support promptly.
-
-Source: [Bank of America Denied Claim Help](https://healthaccounts.bankofamerica.com/denied-claim.shtml)
-
+title: "Typical Claim Resubmission and Appeal Timelines by Administrator"
 ---
+
 
 ### **American Benefits Group (ABG)**
 

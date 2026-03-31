@@ -1,3 +1,7 @@
+---
+title: "FAQ Page Updates"
+---
+
 Provide answers upfront to questions customers may have about HSA/FSA eligibility by taking a few minutes to update your FAQs
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/d19c22b9-b2d6-458a-9ccf-acdc7571aa69.png)**How to update FAQs if you have an HSA/FSA Landing Page:**

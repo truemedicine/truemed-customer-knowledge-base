@@ -1,3 +1,7 @@
+---
+title: "Order Authorization and Medical Necessity Process"
+---
+
 # 
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/2f96704f-edfa-4263-b7ce-9f8f56828ab7.png)**Watch the demo [here](https://app.trupeer.ai/view/cWXd99QzH).**

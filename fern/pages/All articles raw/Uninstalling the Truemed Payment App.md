@@ -1,3 +1,7 @@
+---
+title: "Uninstalling the Truemed Payment App"
+---
+
 *These instructions are only for stores that have already had an onboarding call with the Truemed team.*
 
 To uninstall the app, you must first deactivate it by following the steps above. Then, you will see a menu similar to this screenshot. Click uninstall to fully remove Truemed from your store.

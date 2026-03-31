@@ -1,3 +1,7 @@
+---
+title: "Subscription Renewal or Refill Reminders"
+---
+
 Don’t miss the chance to remind returning customers that their next order may be reimbursable with their HSA/FSA account.
 
 ## Sample Renewal Email Copy

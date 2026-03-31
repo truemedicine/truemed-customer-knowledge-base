@@ -1,3 +1,7 @@
+---
+title: "Step 2_ Checking Out with Truemed"
+---
+
 ### **\
 What does checking out with Truemed look like?**
 

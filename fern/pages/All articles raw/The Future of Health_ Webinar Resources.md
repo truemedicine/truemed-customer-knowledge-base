@@ -1,3 +1,7 @@
+---
+title: "The Future of Health_ Webinar Resources"
+---
+
 Thank you for your interest in the webinar, *The Future of Health: Integrating health interventions into benefits*, presented by EBN and Truemed.
 
 As a follow-up to the live event on July 30, 2025, we would like to provide you with a few resources and further your understanding of the role health interventions can play in your benefits offerings. 

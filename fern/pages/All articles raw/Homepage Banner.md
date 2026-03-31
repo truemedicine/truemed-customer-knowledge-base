@@ -1,3 +1,7 @@
+---
+title: "Homepage Banner"
+---
+
 Adding a site wide HSA/FSA banner ensures every visitor knows they may be eligible to use pre-tax funds—making it clear, compelling, and impossible to miss
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/118f5a5e-bd74-4503-a0a6-72c4eb474efe.jpeg)## **How To Add An HSA/FSA Banner:**

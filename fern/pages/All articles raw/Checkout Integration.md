@@ -1,3 +1,7 @@
+---
+title: "Checkout Integration"
+---
+
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/cc09c696-6e9b-4ead-9a41-f9d602db053c.png)**How long this should take:**
 

@@ -1,3 +1,7 @@
+---
+title: "Highlight Eligible Products with HSA_FSA Badges"
+---
+
 Adding **HSA/FSA Eligible Badges** to qualifying products helps customers quickly identify what they can purchase using pre-tax funds. These badges drive trust, improve discoverability, and increase conversion rates—especially during key spending moments like Open Enrollment, BFCM, and year-end FSA expiration season.
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/3004a990-5583-45a8-a4aa-324d51af3f37.png)## **Step 1: Add an HSA/FSA Eligible Collection in Shopify**

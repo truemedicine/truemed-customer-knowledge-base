@@ -1,3 +1,7 @@
+---
+title: "What Is the Process for Adding a New Merchant or Studio to the Truemed Platform_"
+---
+
 If there’s a health and wellness brand, merchant, or studio you’d like to use your HSA or FSA dollars with, we’re always open to expanding our network-but there’s a process involved.
 
 ### Step 1: The Merchant Must Become a Truemed Partner

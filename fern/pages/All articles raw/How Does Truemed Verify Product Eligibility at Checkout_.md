@@ -1,3 +1,7 @@
+---
+title: "How Does Truemed Verify Product Eligibility at Checkout_"
+---
+
 Truemed uses the **SKU** as the primary identifier to verify product eligibility during checkout.
 
 When a customer selects “Truemed – Pay with HSA/FSA,” we use the SKU of each item in the cart to determine whether it qualifies for HSA/FSA payment.

@@ -1,3 +1,7 @@
+---
+title: "New Subscriber _ Welcome Flow"
+---
+
 **How to Add HSA/FSA Messaging to Your Welcome Series**
 
 Your welcome email sets the tone for your brand experience. It’s the perfect opportunity to educate new subscribers on how they can save an average of 30% using pre-tax HSA/FSA dollars on eligible purchases.

@@ -1,3 +1,7 @@
+---
+title: "Finding the Payment App Settings Page"
+---
+
 In your Shopify dashboard, click Settings in the bottom left. Navigate to your Payments settings, then scroll down to Additional Payment Methods. If you see Truemed listed there, just click into it to find the settings page. If you don't, click Add Payment Method, toggle over to Search by Provider, and type Truemed:
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/57648141-9f17-436c-8842-6eced2227ad8.png)

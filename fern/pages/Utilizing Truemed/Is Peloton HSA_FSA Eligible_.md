@@ -1,3 +1,7 @@
+---
+title: "Is Peloton HSA_FSA Eligible_"
+---
+
 ### **Overview**
 
 Peloton, in partnership with Truemed, offers a pathway for select HSA/FSA plan holders to use their funds toward Peloton hardware and potentially membership fees. Below is how the process typically works — please check with your HSA/FSA administrator to confirm eligibility.

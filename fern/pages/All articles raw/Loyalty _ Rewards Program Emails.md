@@ -1,3 +1,7 @@
+---
+title: "Loyalty _ Rewards Program Emails"
+---
+
 Double down on savings by reminding customers they can combine rewards points with HSA/FSA tax-free spending.
 
 ## Sample Email Copy for Loyalty Program Emails

@@ -1,3 +1,7 @@
+---
+title: "What is the typical processing time for HSA_FSA refunds_"
+---
+
 If you’ve received a refund for a purchase made with your HSA or FSA card, here’s what you can expect in terms of timing and what to know about how Truemed handles refunds.
 
 ### Refund Timing

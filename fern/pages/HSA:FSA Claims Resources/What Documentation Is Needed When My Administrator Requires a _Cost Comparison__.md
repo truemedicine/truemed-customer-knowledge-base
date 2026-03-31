@@ -1,3 +1,7 @@
+---
+title: "What Documentation Is Needed When My Administrator Requires a _Cost Comparison__"
+---
+
 Some HSA/FSA administrators require a **cost comparison** when reviewing reimbursement claims for certain health-related products. This comparison shows the price of a "standard" version of the item versus the medically necessary version recommended in your Letter of Medical Necessity (LMN).
 
 ### When Are Cost Comparisons Required?

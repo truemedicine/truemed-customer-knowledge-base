@@ -1,3 +1,7 @@
+---
+title: "Checkout Messaging for Subscription Products"
+---
+
 If you sell subscription products through Shopify and use Truemed’s **qualification link** to support HSA/FSA eligibility, we recommend adding approved Truemed messaging directly to your **Shopify checkout page**. This ensures customers understand how to complete the qualification process and take advantage of potential tax savings.
 
 ---
