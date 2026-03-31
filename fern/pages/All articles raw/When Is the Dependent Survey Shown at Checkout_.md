@@ -1,6 +1,6 @@
 ---
-title: "When Is the Dependent Survey Shown at Checkout_"
----
+title: "When Is the Dependent Survey Shown at Checkout_"---
+
 
 If a customer adds multiple items to their cart and only *some* of them qualify for HSA/FSA eligibility for dependents, the dependent survey will still be shown.
 

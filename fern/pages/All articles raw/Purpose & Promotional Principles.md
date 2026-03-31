@@ -1,6 +1,6 @@
 ---
-title: "Purpose & Promotional Principles"
----
+title: "Purpose & Promotional Principles"---
+
 
 Best practices for spreading the word about your partnership with Truemed.
 

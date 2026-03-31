@@ -1,6 +1,6 @@
 ---
-title: "Add “HSA_FSA Eligible” Filters or Badges to Your Products"
----
+title: "Add “HSA_FSA Eligible” Filters or Badges to Your Products"---
+
 
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/6b372b88-3eb2-40c9-b89f-ef9c01ab2015.png)Making it easy for customers to find HSA/FSA-eligible products is one of the simplest ways to increase conversion rates and build trust. By adding clear tags, badges, or filters, you're removing friction and guiding high-intent shoppers to the right products.

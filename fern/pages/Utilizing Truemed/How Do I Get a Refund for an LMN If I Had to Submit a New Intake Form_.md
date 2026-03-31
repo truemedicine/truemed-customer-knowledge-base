@@ -1,6 +1,6 @@
 ---
-title: "How Do I Get a Refund for an LMN If I Had to Submit a New Intake Form_"
----
+title: "How Do I Get a Refund for an LMN If I Had to Submit a New Intake Form_"---
+
 
 In some cases, you may be asked to complete a new clinical intake form if your original Letter of Medical Necessity (LMN) had an error, was missing required details, or needed to be updated for accuracy. If this applies to you, you **may be eligible for a refund** of your original LMN fee.
 

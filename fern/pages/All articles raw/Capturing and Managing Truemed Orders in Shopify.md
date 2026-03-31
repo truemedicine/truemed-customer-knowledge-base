@@ -1,6 +1,6 @@
 ---
-title: "Capturing and Managing Truemed Orders in Shopify"
----
+title: "Capturing and Managing Truemed Orders in Shopify"---
+
 
 Truemed is releasing an update to the **Shopify payment flow** on **Wednesday, June 4**. This update is designed to give you more flexibility in how and when payments are captured.
 

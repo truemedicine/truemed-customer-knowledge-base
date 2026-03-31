@@ -1,6 +1,6 @@
 ---
-title: "How often are we paid via Stripe_"
----
+title: "How often are we paid via Stripe_"---
+
 
 Orders are paid out on a rolling 2-day basis. Depending on your order volume, these payouts are often in batches. 
 

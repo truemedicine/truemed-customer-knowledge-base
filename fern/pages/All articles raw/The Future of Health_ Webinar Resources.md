@@ -1,6 +1,6 @@
 ---
-title: "The Future of Health_ Webinar Resources"
----
+title: "The Future of Health_ Webinar Resources"---
+
 
 Thank you for your interest in the webinar, *The Future of Health: Integrating health interventions into benefits*, presented by EBN and Truemed.
 

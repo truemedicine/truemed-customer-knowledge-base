@@ -1,6 +1,6 @@
 ---
-title: "What If I Need a Recurring LMN for a Subscription or Ongoing Purchase_"
----
+title: "What If I Need a Recurring LMN for a Subscription or Ongoing Purchase_"---
+
 
 If you’re using your HSA or FSA for a recurring subscription or ongoing purchase (like a monthly supplement or coaching program), your Letter of Medical Necessity (LMN) must be **renewed annually**.
 

@@ -1,6 +1,6 @@
 ---
-title: "Does Truemed Write LMNs for Minors_"
----
+title: "Does Truemed Write LMNs for Minors_"---
+
 
 **Short Answer:**\
 It depends! Truemed may offer LMNs for minors for certain merchants, but not all. To determine eligibility, please reach out to our support team.

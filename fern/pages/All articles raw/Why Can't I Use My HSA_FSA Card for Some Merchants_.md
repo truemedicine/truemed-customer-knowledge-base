@@ -1,6 +1,6 @@
 ---
-title: "Why Can't I Use My HSA_FSA Card for Some Merchants_"
----
+title: "Why Can't I Use My HSA_FSA Card for Some Merchants_"---
+
 
 HSA/FSA cards are often restricted to specific merchant account setups. If a merchant does not have the correct payment integrations, HSA/FSA cards can be declined at checkout. 
 

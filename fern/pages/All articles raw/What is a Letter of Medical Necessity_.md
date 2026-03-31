@@ -1,6 +1,6 @@
 ---
-title: "What is a Letter of Medical Necessity_"
----
+title: "What is a Letter of Medical Necessity_"---
+
 
 A Letter of Medical Necessity (LMN) is a formal document that a licensed healthcare provider writes to explain why a specific treatment, product, or service is essential for a patient's health. 
 

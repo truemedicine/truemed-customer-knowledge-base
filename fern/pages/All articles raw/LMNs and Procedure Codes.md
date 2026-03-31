@@ -1,6 +1,6 @@
 ---
-title: "LMNs and Procedure Codes"
----
+title: "LMNs and Procedure Codes"---
+
 
 **Overview:**\
 If you're being asked to provide a procedure code, it may indicate that your claim is being processed through insurance rather than as an HSA/FSA expense. For HSA/FSA claims, the details contained in your LMN are sufficient.

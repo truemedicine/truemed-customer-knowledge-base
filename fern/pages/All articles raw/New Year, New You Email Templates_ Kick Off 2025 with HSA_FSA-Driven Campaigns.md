@@ -1,6 +1,6 @@
 ---
-title: "New Year, New You Email Templates_ Kick Off 2025 with HSA_FSA-Driven Campaigns"
----
+title: "New Year, New You Email Templates_ Kick Off 2025 with HSA_FSA-Driven Campaigns"---
+
 
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/fdc602eb-b1a9-4202-881e-ea45a35597ef.png)January is a high-intent season for health and wellness purchases—and it also marks the start of a new benefit year. Most customers have *just received* fresh HSA/FSA funds, and many are making resolutions to prioritize their health. Now’s the perfect time to position your products as smart, pre-tax investments in a healthier year.

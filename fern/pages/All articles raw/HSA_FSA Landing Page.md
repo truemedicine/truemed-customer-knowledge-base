@@ -1,6 +1,6 @@
 ---
-title: "HSA_FSA Landing Page"
----
+title: "HSA_FSA Landing Page"---
+
 
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/63887195-fdf0-4606-9d45-da999556f939.jpeg)## **Why Create an HSA/FSA Educational Landing Page**
@@ -67,7 +67,7 @@ Want more traffic to your page—and in turn, more conversion? Follow this basic
 
 ## **SEO Essentials**
 
-- URL = When building a page, use a short URL that includes the keyword and is &lt;60 characters. Use hyphens to separate words, and keep the whole thing between 1-5 words. (Eg. <https://www.truemed.com/shop/red-light-therapy>)
+- URL = When building a page, use a short URL that includes the keyword and is &lt;60 characters. Use hyphens to separate words, and keep the whole thing between 1-5 words. (Eg. )
 
 - SEO Title = Add a title tag ≤60 characters with the target keyword (Best Red Light Therapy Devices)
 

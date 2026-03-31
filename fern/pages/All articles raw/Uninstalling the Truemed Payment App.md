@@ -1,6 +1,6 @@
 ---
-title: "Uninstalling the Truemed Payment App"
----
+title: "Uninstalling the Truemed Payment App"---
+
 
 *These instructions are only for stores that have already had an onboarding call with the Truemed team.*
 

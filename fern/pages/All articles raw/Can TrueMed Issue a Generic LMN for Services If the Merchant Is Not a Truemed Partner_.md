@@ -1,6 +1,6 @@
 ---
-title: "Can TrueMed Issue a Generic LMN for Services If the Merchant Is Not a Truemed Partner_"
----
+title: "Can TrueMed Issue a Generic LMN for Services If the Merchant Is Not a Truemed Partner_"---
+
 
 In most cases, **Truemed can only issue Letters of Medical Necessity (LMNs) for purchases made through our partnered merchants**, where we have verified product details and eligibility requirements in advance.
 

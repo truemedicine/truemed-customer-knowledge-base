@@ -1,6 +1,6 @@
 ---
-title: "Can I Use My HSA_FSA to Purchase a Mattress_"
----
+title: "Can I Use My HSA_FSA to Purchase a Mattress_"---
+
 
 **Short Answer:**\
 Yes—if your mattress meets IRS and HSA/FSA requirements by being tied to an intervention that treats, reverses, or prevents a diagnosed medical condition, it can be eligible for reimbursement.

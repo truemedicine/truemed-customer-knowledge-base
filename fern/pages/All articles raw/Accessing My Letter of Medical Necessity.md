@@ -1,6 +1,6 @@
 ---
-title: "Accessing My Letter of Medical Necessity"
----
+title: "Accessing My Letter of Medical Necessity"---
+
 
 ## 📄 Accessing Your Letter of Medical Necessity (LMN)
 

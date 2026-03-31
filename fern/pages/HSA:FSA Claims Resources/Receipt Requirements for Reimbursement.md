@@ -1,6 +1,6 @@
 ---
-title: "Receipt Requirements for Reimbursement"
----
+title: "Receipt Requirements for Reimbursement"---
+
 
 When it is time to submit a claim to your HSA/FSA administrator for reimbursement, submitting a receipt with five key points of information will help your administrator review the claim. 
 

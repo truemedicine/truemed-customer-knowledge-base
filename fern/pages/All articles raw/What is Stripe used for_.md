@@ -1,5 +1,5 @@
 ---
-title: "What is Stripe used for_"
----
+title: "What is Stripe used for_"---
+
 
 Truemed uses Stripe to send payouts associated with orders placed using the Truemed payment app directly to your linked bank account, less our fees. It also allows us to process refunds for your customers. You only need to set up a Stripe account on our platform if you have received instructions to do so prior to installing the Truemed payment app.

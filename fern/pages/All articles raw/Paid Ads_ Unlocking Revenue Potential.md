@@ -1,6 +1,6 @@
 ---
-title: "Paid Ads_ Unlocking Revenue Potential"
----
+title: "Paid Ads_ Unlocking Revenue Potential"---
+
 
 Go above and beyond by applying the same strategies that drive success for Truemed's top partners
 

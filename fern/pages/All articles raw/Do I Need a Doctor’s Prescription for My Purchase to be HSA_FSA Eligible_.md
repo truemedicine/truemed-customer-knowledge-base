@@ -1,6 +1,6 @@
 ---
-title: "Do I Need a Doctor’s Prescription for My Purchase to be HSA_FSA Eligible_"
----
+title: "Do I Need a Doctor’s Prescription for My Purchase to be HSA_FSA Eligible_"---
+
 
 **Short Answer:**\
 No – if you’re using a product as part of a medically necessary intervention, you generally do not need a doctor’s prescription. Instead, a Letter of Medical Necessity (LMN) is sufficient, provided it meets IRS guidelines.

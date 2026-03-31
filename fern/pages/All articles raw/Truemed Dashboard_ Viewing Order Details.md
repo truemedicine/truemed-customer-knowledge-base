@@ -1,6 +1,6 @@
 ---
-title: "Truemed Dashboard_ Viewing Order Details"
----
+title: "Truemed Dashboard_ Viewing Order Details"---
+
 
 The [**Truemed Merchant Dashboard**](http://app.truemed.com/) allows you to download reports for tracking payments, refunds, and payouts. These reports help you reconcile transactions efficiently and provide a clear financial overview.
 

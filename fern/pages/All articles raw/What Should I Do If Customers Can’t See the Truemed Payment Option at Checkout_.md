@@ -1,6 +1,6 @@
 ---
-title: "What Should I Do If Customers Can’t See the Truemed Payment Option at Checkout_"
----
+title: "What Should I Do If Customers Can’t See the Truemed Payment Option at Checkout_"---
+
 
 If your customers report that the **Truemed – Pay with HSA/FSA** option isn’t appearing during checkout, here are two common reasons and how to address them:
 

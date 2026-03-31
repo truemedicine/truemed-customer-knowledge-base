@@ -1,6 +1,6 @@
 ---
-title: "How to Upload and Manage Your SKUs in the Truemed Portal"
----
+title: "How to Upload and Manage Your SKUs in the Truemed Portal"---
+
 
 If a customer sees a new product marked as ineligible during checkout, don’t worry—this often means your latest product catalog hasn’t been reviewed yet.
 

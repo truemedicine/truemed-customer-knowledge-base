@@ -1,6 +1,6 @@
 ---
-title: "Post-Purchase Qualification Link App"
----
+title: "Post-Purchase Qualification Link App"---
+
 
 Part of an exemplary Truemed Qualifications implementation includes offering customers a Qualification Link in your store's Order Confirmation page. Previously, this was accomplished by adding a custom code snippet using **"Additional Scripts"**. However, with the launch of **Checkout Extensibility**, this option has been disabled.
 
@@ -12,7 +12,7 @@ To support this transition, **Truemed has developed an app** that seamlessly int
 
 **See a loom video created by our engineer, Lucas, to help guide you through the process [here](https://www.loom.com/share/6e01aa4b751f45dd9428f30155bca5b3?sid=757fe96d-2887-4079-b0ba-35a4e64a5c7f).**
 
-1. Visit <https://apps.shopify.com/truemed-extensions> and click **Install**
+1. Visit  and click **Install**
 
    ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/078f2918-88fa-4a81-b993-a3748d4901fc.png)
 

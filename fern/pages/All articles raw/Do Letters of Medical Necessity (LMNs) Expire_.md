@@ -1,6 +1,6 @@
 ---
-title: "Do Letters of Medical Necessity (LMNs) Expire_"
----
+title: "Do Letters of Medical Necessity (LMNs) Expire_"---
+
 
 **Short Answer**\
 Yes. An LMN is typically valid for **12 months** from its issue date (sometimes listed as the “Intervention Start Date”). Any HSA/FSA-eligible purchases made after the LMN’s issue date and before its expiration date should be covered—provided you have sufficient HSA/FSA funds.

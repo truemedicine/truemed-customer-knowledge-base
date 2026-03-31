@@ -1,6 +1,6 @@
 ---
-title: "How Do I Access or Download My Letter of Medical Necessity (LMN)_"
----
+title: "How Do I Access or Download My Letter of Medical Necessity (LMN)_"---
+
 
 For security and privacy reasons, **Truemed no longer sends LMNs via email**. Instead, your Letter of Medical Necessity is securely stored in your Truemed account.
 

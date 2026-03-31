@@ -1,6 +1,6 @@
 ---
-title: "How to Use Truemed"
----
+title: "How to Use Truemed"---
+
 
 To utilize Truemed, utilize these three simple steps! 
 

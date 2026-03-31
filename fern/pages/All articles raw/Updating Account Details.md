@@ -1,6 +1,6 @@
 ---
-title: "Updating Account Details"
----
+title: "Updating Account Details"---
+
 
 To update your Stripe account details:
 

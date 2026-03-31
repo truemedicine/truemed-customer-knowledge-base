@@ -1,6 +1,6 @@
 ---
-title: "Are Gym Memberships Covered By My HSA_FSA_"
----
+title: "Are Gym Memberships Covered By My HSA_FSA_"---
+
 
 **Short Answer:**\
 Gym memberships **can** be covered by your HSA or FSA **only** if you have a specific medical condition and a physician (or licensed provider) has recommended regular exercise as part of a treatment plan. This means you’ll need a valid Letter of Medical Necessity (LMN) that meets IRS guidelines.

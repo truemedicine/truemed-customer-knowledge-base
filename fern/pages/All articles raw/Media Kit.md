@@ -1,6 +1,6 @@
 ---
-title: "Media Kit"
----
+title: "Media Kit"---
+
 
 Below, find our Media Kit to easily download all of our assets **⬇️**
 

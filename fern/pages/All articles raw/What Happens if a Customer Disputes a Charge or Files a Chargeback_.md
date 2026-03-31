@@ -1,6 +1,6 @@
 ---
-title: "What Happens if a Customer Disputes a Charge or Files a Chargeback_"
----
+title: "What Happens if a Customer Disputes a Charge or Files a Chargeback_"---
+
 
 If a customer files a dispute or chargeback on a Truemed order, we handle the process on your behalf.
 

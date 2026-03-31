@@ -1,6 +1,6 @@
 ---
-title: "Payment Integration Customer Journey"
----
+title: "Payment Integration Customer Journey"---
+
 
 ## **Experience the Truemed Checkout Process**
 

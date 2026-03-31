@@ -1,6 +1,6 @@
 ---
-title: "How Does Truemed Verify Product Eligibility at Checkout_"
----
+title: "How Does Truemed Verify Product Eligibility at Checkout_"---
+
 
 Truemed uses the **SKU** as the primary identifier to verify product eligibility during checkout.
 

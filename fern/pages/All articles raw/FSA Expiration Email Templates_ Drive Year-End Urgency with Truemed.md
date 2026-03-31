@@ -1,6 +1,6 @@
 ---
-title: "FSA Expiration Email Templates_ Drive Year-End Urgency with Truemed"
----
+title: "FSA Expiration Email Templates_ Drive Year-End Urgency with Truemed"---
+
 
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/2f348da0-aca1-4a51-9893-e46478110525.png)Each year, billions in FSA funds go unspent—and forfeited. In fact, **about 47% of FSA participants forfeited unused funds in 2023**, averaging **$422 per account** and totaling approximately **$4.5 billion** **(**[**source**](https://www.nasdaq.com/articles/workers-are-losing-over-4-billion-unspent-fsa-money-year?utm_source=chatgpt.com)**)**. That’s a massive opportunity your brand can capture—by educating customers and making it easy for them to use those funds on eligible products.

@@ -1,6 +1,6 @@
 ---
-title: "Is Truemed Free for Consumers_"
----
+title: "Is Truemed Free for Consumers_"---
+
 
 **Short Answer:**\
 It depends! Some brands cover the cost of your LMN (Letter of Medical Necessity), while others opt not to cover this fee—though they still want you to use your HSA/FSA funds for their products or services.

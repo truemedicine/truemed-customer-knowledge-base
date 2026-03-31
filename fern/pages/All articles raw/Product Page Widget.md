@@ -1,6 +1,6 @@
 ---
-title: "Product Page Widget"
----
+title: "Product Page Widget"---
+
 
 ### **\
 Overview**
@@ -25,7 +25,7 @@ It should be installed on your product pages, typically near the price or "Add t
 
    ```
 
-<script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
+
 ```
 
 4. Adjust styles on the div to fit your page! For instance, on the Komuso site pictured above, they used the following to the `style` property on the div from line 1 above:
@@ -40,7 +40,7 @@ For pages with black or dark backgrounds, add the attribute `dark-mode` to ena
 
 ```
 
-<script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
+
 ```
 
 ### **For Shopify Stores: Only Display on Certain Products**
@@ -55,14 +55,14 @@ To only display the widget for products *with* the tag `'truemed-eligible'`:
 
 ```
 
-<script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
+
 ```
 
 To only display the widget for products *without* the tag `'truemed-ineligible'`:
 
 ```
 
-<script src="https://static.truemed.com/widgets/product-page-widget.min.js" defer></script>
+
 ```
 
 That's it! Reach out with any technical questions to [merchants@truemed.com](mailto:merchants@truemed.com).
@@ -72,31 +72,31 @@ That's it! Reach out with any technical questions to [merchants@truemed.com](mai
 1. Changing the color of the **Learn how** link:
 
    ```
-<style>
+
 .truemed-instructions-open {{
     color: #7a7a7a !important;
   }}
-</style>
+
 ```
 
 2. Keep the Truemed logo from oversizing:
 
    ```
-<style>
+
   .truemed-logo-img {{
     height: 13px !important;
   }}
-</style>
+
 ```
 
 3. Keep the Truemed logo in-line with the text:
 
    ```
-<style>
+
 .truemed-logo-img {{
     margin: 2px 0 0 3px !important;
   }}
-</style>
+
 ```
 
 4. Add space above or below the widget:

@@ -1,6 +1,6 @@
 ---
-title: "When Do I Receive Payouts for HSA_FSA Orders Processed Through Truemed_"
----
+title: "When Do I Receive Payouts for HSA_FSA Orders Processed Through Truemed_"---
+
 
 Payouts for Truemed orders are processed via **Stripe** and are deposited into the **bank account** you connected during onboarding.
 

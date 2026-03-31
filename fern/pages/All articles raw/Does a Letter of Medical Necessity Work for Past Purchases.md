@@ -1,6 +1,6 @@
 ---
-title: "Does a Letter of Medical Necessity Work for Past Purchases"
----
+title: "Does a Letter of Medical Necessity Work for Past Purchases"---
+
 
 Completion of the qualification survey process signals the start of a patient-provider relationship. Due to compliance reasons, we are not able to backdate a letter of medical necessity to a time prior to establishment of that relationship.
 

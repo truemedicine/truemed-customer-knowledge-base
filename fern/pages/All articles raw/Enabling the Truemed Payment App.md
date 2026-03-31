@@ -1,6 +1,6 @@
 ---
-title: "Enabling the Truemed Payment App"
----
+title: "Enabling the Truemed Payment App"---
+
 
 This will be the last step to installing the payment app on your live onboarding call. After you click Activate, the app will be live and customers checkout using HSA/FSA funds immediately.
 

@@ -1,6 +1,6 @@
 ---
-title: "Will Changing Our Shopify Theme Affect Truemed Payments_"
----
+title: "Will Changing Our Shopify Theme Affect Truemed Payments_"---
+
 
 Good news—**changing your Shopify theme will not affect Truemed payments** as long as you're staying on the same Shopify account. The backend payment integration is tied to your store account, not your theme.
 

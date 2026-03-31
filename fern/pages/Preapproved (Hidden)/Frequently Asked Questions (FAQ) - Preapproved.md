@@ -1,6 +1,6 @@
 ---
-title: "Frequently Asked Questions (FAQ) - Preapproved"
----
+title: "Frequently Asked Questions (FAQ) - Preapproved"---
+
 
  1.  **What is the return or exchange policy?** All orders placed through the website are final; we do not allow returns or exchanges. However, if you did not receive your order or received a defective or damaged item, please contact us at [marketplace-support@truemed.com](mailto:marketplace-support@truemed.com) within 60 days of placing your order.
  2. **Are there any limits to what I can order?** We reserve the right to limit the quantity of certain items. If you have questions, please contact us at [marketplace-support@truemed.com](mailto:marketplace-support@truemed.com) within 60 days of placing your order.

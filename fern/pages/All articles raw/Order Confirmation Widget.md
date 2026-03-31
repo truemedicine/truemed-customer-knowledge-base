@@ -1,6 +1,6 @@
 ---
-title: "Order Confirmation Widget"
----
+title: "Order Confirmation Widget"---
+
 
 *These instructions are specific to reimbursement implementations. They are not necessary to support the Truemed payment app.*
 
@@ -27,7 +27,7 @@ Truemed provides a custom widget to make this very simple for Shopify stores, bu
 
    ```
 
-<script src="https://truemed-public.s3.us-west-1.amazonaws.com/truemed-ads/confirmation-widget-v1.1.min.js"></script>
+
 ```
 
 ### **Non-Shopify Instructions**

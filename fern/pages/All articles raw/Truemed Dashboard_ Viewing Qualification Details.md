@@ -1,6 +1,6 @@
 ---
-title: "Truemed Dashboard_ Viewing Qualification Details"
----
+title: "Truemed Dashboard_ Viewing Qualification Details"---
+
 
 The Truemed Merchant Dashboard allows you to view details for each customer qualification. These records help you verify which customers have completed the medical qualification process and when related actions occurred.
 

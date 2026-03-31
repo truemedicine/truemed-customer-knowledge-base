@@ -1,6 +1,6 @@
 ---
-title: "Launch Email"
----
+title: "Launch Email"---
+
 
 Inform your current customers  that they may now qualify to use their HSA/FSA funds for purchases. Case studies have shown that open rates and CTRs for this promotional email are typically an order of magnitude higher than standard marketing material.
 

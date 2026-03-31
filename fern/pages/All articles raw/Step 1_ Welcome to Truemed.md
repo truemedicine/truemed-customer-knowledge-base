@@ -1,6 +1,6 @@
 ---
-title: "Step 1_ Welcome to Truemed"
----
+title: "Step 1_ Welcome to Truemed"---
+
 
 Prior to launch, brief your team internally about Truemed. Once all key stakeholders have read through this guide, you are all set to begin your Truemed rollout.
 
@@ -88,7 +88,7 @@ LMNs typically contain the following material:
 
 ## **What is an HSA/FSA Account?**
 
-*HSAs* are typically tied to your health plan, but only if you have a high-deductible health plan (HDHP), and you would contribute your pre-tax income directly to it. You may have one from a previous employment or health plan. FSA's are separate from HSAs and un-related to your health insurance. Further detail here: <https://www.aetna.com/health-guide/hsa-vs-fsa.html>
+*HSAs* are typically tied to your health plan, but only if you have a high-deductible health plan (HDHP), and you would contribute your pre-tax income directly to it. You may have one from a previous employment or health plan. FSA's are separate from HSAs and un-related to your health insurance. Further detail here: 
 
 - **Don't have an HSA/FSA account?**
 

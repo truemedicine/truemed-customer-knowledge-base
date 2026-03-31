@@ -1,6 +1,6 @@
 ---
-title: "Typical Claim Resubmission and Appeal Timelines by Administrator"
----
+title: "Typical Claim Resubmission and Appeal Timelines by Administrator"---
+
 
 
 ### **American Benefits Group (ABG)**

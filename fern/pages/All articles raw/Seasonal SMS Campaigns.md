@@ -1,6 +1,6 @@
 ---
-title: "Seasonal SMS Campaigns"
----
+title: "Seasonal SMS Campaigns"---
+
 
 ***Increase conversion across key moments with short, high-impact texts.***
 

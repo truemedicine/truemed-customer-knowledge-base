@@ -1,6 +1,6 @@
 ---
-title: "Can I get an LMN before I purchase a product through Truemed_"
----
+title: "Can I get an LMN before I purchase a product through Truemed_"---
+
 
 **Short Answer**\
 Yes—but whether you can complete the health assessment (and obtain a Letter of Medical Necessity) before you make a purchase depends on each merchant’s specific checkout flow. The key requirement for HSA/FSA is that the LMN’s issue date must be on or before the purchase date to avoid potential claim denials.

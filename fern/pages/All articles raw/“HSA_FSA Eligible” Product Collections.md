@@ -1,6 +1,6 @@
 ---
-title: "“HSA_FSA Eligible” Product Collections"
----
+title: "“HSA_FSA Eligible” Product Collections"---
+
 
 Making it easy for customers to find HSA/FSA-eligible products is one of the simplest ways to increase conversion rates and build trust. By adding clear tags, badges, or filters, you're removing friction and guiding high-intent shoppers to the right products.
 

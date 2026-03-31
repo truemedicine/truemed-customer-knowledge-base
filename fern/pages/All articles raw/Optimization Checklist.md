@@ -1,6 +1,6 @@
 ---
-title: "Optimization Checklist"
----
+title: "Optimization Checklist"---
+
 
 This checklist outlines the exact strategies top Truemed performers use to maximize revenue. From site updates to email campaigns and ads, these proven steps make it simple to highlight HSA/FSA eligibility and capture more year-round sales.
 

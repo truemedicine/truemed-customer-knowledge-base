@@ -1,6 +1,6 @@
 ---
-title: "Using Truemed in Targeted Advertising"
----
+title: "Using Truemed in Targeted Advertising"---
+
 
 Go above and beyond by applying the same strategies that drive success for Truemed's top partners
 

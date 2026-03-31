@@ -1,6 +1,6 @@
 ---
-title: "HSABank Quick Guide_ Submitting HSA_FSA Claims through HSABank"
----
+title: "HSABank Quick Guide_ Submitting HSA_FSA Claims through HSABank"---
+
 
 This guide explains the steps to submit reimbursements for HSABank HSA/FSA accounts. For detailed instructions, please refer to [HSABank’s instructions](https://www.hsabank.com/hsabank/members/how-to-use-hsa).
 
@@ -10,7 +10,7 @@ This guide explains the steps to submit reimbursements for HSABank HSA/FSA accou
 
 1. **Login**
    - Access the member website:\
-     <https://account.hsabank.com/#/auth/login>
+     
 2. **Navigate to "Reimburse Myself"**
    - On the “Home” tab, click the blue button labeled **“Reimburse Myself.”**
 3. **Follow On-Screen Instructions**

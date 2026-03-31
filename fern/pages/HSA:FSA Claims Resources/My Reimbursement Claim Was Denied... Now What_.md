@@ -1,6 +1,6 @@
 ---
-title: "My Reimbursement Claim Was Denied... Now What_"
----
+title: "My Reimbursement Claim Was Denied... Now What_"---
+
 
 If you receive an alert of a denied claim—don’t worry! We are here to help you navigate next steps.
 

@@ -1,6 +1,6 @@
 ---
-title: "Why Might a Customer's HSA_FSA Card Be Declined at Checkout_"
----
+title: "Why Might a Customer's HSA_FSA Card Be Declined at Checkout_"---
+
 
 If a customer reports that their HSA or FSA card is being declined, it’s likely due to where the card is being entered during checkout.
 

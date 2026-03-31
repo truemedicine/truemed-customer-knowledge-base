@@ -1,6 +1,6 @@
 ---
-title: "Reimbursements Customer Journey"
----
+title: "Reimbursements Customer Journey"---
+
 
 This checkout method is for our partners who do most of their business through subscription orders, or do not have a Shopify storefront.
 

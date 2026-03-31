@@ -1,6 +1,6 @@
 ---
-title: "Post-Purchase Email Snippet"
----
+title: "Post-Purchase Email Snippet"---
+
 
 *These instructions are specific to reimbursement implementations. They are not necessary to support the Truemed payment app.*
 

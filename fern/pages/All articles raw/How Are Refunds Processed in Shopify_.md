@@ -1,6 +1,6 @@
 ---
-title: "How Are Refunds Processed in Shopify_"
----
+title: "How Are Refunds Processed in Shopify_"---
+
 
 Refunds for Truemed purchases can be issued directly through Shopify, just like any other payment method.
 

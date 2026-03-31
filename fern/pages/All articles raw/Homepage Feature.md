@@ -1,6 +1,6 @@
 ---
-title: "Homepage Feature"
----
+title: "Homepage Feature"---
+
 
 Featuring your partnership with a homepage block ensures that customers are aware of this payment option, and can quickly navigate them to shop for [HSA/FSA eligible products](https://support.truemed.com/en/articles/5809153).
 

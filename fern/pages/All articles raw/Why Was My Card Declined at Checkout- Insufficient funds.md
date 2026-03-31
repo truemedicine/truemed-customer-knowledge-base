@@ -1,6 +1,6 @@
 ---
-title: "Why Was My Card Declined at Checkout- Insufficient funds"
----
+title: "Why Was My Card Declined at Checkout- Insufficient funds"---
+
 
 # Why Was My Card Declined at Checkout?
 

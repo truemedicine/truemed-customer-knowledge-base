@@ -1,6 +1,6 @@
 ---
-title: "Can I Use My HSA_FSA for Supplements_"
----
+title: "Can I Use My HSA_FSA for Supplements_"---
+
 
 **Short Answer:**\
 Yes—but only if your nutritional supplements are recommended by a medical practitioner as a treatment for a specific medical condition diagnosed by a physician. Without this recommendation, supplements for general wellness are not considered a qualified medical expense under IRS rules.

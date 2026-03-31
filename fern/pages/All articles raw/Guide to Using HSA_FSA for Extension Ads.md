@@ -1,6 +1,6 @@
 ---
-title: "Guide to Using HSA_FSA for Extension Ads"
----
+title: "Guide to Using HSA_FSA for Extension Ads"---
+
 
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/32165d21-2c00-47f9-be6b-438538d1b051.png)### **Why Highlight HSA/FSA Eligibility in Extension Ads?**

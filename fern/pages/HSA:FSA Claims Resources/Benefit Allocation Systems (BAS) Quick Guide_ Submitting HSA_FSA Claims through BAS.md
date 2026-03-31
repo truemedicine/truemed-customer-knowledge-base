@@ -1,6 +1,6 @@
 ---
-title: "Benefit Allocation Systems (BAS) Quick Guide_ Submitting HSA_FSA Claims through BAS"
----
+title: "Benefit Allocation Systems (BAS) Quick Guide_ Submitting HSA_FSA Claims through BAS"---
+
 
 This guide outlines the steps to submit your FSA reimbursement claims via Benefit Allocation Systems. For additional details, please refer to the following resources:
 

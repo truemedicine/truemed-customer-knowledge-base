@@ -1,6 +1,6 @@
 ---
-title: "Employee Benefits Corporation (EBC) Quick Guide_ Submitting HSA_FSA Claims through EBC"
----
+title: "Employee Benefits Corporation (EBC) Quick Guide_ Submitting HSA_FSA Claims through EBC"---
+
 
 This guide outlines the steps to submit your FSA reimbursement claims via Employee Benefits Corporation (EBC). For additional details, please refer to the following resources:
 

@@ -1,6 +1,6 @@
 ---
-title: "WEX Quick Guide_ Submitting HSA_FSA Claims through WEX"
----
+title: "WEX Quick Guide_ Submitting HSA_FSA Claims through WEX"---
+
 
 This guide outlines the steps to request a reimbursement for your HSA/FSA claims via Wex. For additional details, refer to the following resources:
 

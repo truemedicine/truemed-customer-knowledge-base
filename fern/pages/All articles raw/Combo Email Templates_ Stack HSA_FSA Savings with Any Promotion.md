@@ -1,6 +1,6 @@
 ---
-title: "Combo Email Templates_ Stack HSA_FSA Savings with Any Promotion"
----
+title: "Combo Email Templates_ Stack HSA_FSA Savings with Any Promotion"---
+
 
 No matter the season, your promotions are powerful opportunities to boost conversion—and even more so when paired with HSA/FSA eligibility. By highlighting that eligible customers can use pre-tax HSA/FSA funds *in addition to* your existing promo, you empower them to save an average of 30% on top of your offer.
 

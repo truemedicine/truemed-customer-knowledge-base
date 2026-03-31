@@ -1,6 +1,6 @@
 ---
-title: "Seasonal Homepage Feature"
----
+title: "Seasonal Homepage Feature"---
+
 
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/013c5106-85e0-4d30-b3b4-37542a7f1add.png)Your homepage is one of the highest-impact places to highlight HSA/FSA eligibility—especially during key seasonal moments when customers are actively making benefit decisions or looking to spend pre-tax dollars. By updating your homepage feature block with timely, relevant messaging, you can drive awareness, increase conversion, and help your customers save an average of 30% using their HSA/FSA funds.

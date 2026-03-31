@@ -1,6 +1,6 @@
 ---
-title: "Installing the Truemed Payment App"
----
+title: "Installing the Truemed Payment App"---
+
 
 The Truemed app is not listed on Shopify, so you will need to either receive a link to the app from an engineer or use the link already provided on your onboarding document. All of this happens live during your onboarding call - you’ll install the app and set up your Truemed account in just a few clicks.
 

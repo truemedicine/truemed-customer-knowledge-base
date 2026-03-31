@@ -1,6 +1,6 @@
 ---
-title: "How do I handle HSA_FSA reimbursement if my purchase includes both eligible and ineligible items_"
----
+title: "How do I handle HSA_FSA reimbursement if my purchase includes both eligible and ineligible items_"---
+
 
 If your order includes a mix of HSA/FSA-eligible and ineligible products, you may still be able to get reimbursed — but it requires a few extra steps to separate the two.
 
