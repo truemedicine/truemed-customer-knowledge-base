@@ -1,11 +1,3 @@
----
-title: "Capturing and Managing Truemed Orders in Shopify"---
-
-
-Truemed is releasing an update to the **Shopify payment flow** on **Wednesday, June 4**. This update is designed to give you more flexibility in how and when payments are captured.
-
----
-
 ### **Who This Affects**
 
 This update **only applies** to Shopify merchants using one of the following **Payment Capture Methods**:
@@ -19,9 +11,7 @@ This update **only applies** to Shopify merchants using one of the following **P
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/662e5ef9-1b60-4b9f-ba2e-79300c5149cc.png)### **What’s Changing**
 
 With this update, you’ll have more control over when to capture funds—such as aligning capture with fulfillment or inventory confirmation—just like other payment methods available on your store.
-
----
-
+***
 ## **Order Statuses in Your Shopify Dashboard**
 
 Your customer-facing flow remains unchanged. Behind the scenes, the following order statuses will guide your next steps:
@@ -55,9 +45,7 @@ Your customer-facing flow remains unchanged. Behind the scenes, the following or
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/706b94d9-7eec-4e7c-ad83-3196c9be01f6.png)
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/aab17664-8037-49a6-b1a2-508930403ba7.png)
-
----
-
+***
 ### **3. Paid**
 
 - Payment has been successfully captured
@@ -84,9 +72,7 @@ Your customer-facing flow remains unchanged. Behind the scenes, the following or
 | **Authorized** | LMN issued – order is eligible for payment capture and fulfillment |
 | **Rejected** | LMN rejected – order is cancelled, do not fulfill |
 | **Captured** | Payment successfully captured |
-
----
-
+***
 ## **Manual Capture & Shopify Integration Guide**
 
 ## **Overview**

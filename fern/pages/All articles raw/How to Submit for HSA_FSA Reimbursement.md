@@ -1,15 +1,3 @@
----
-title: "How to Submit for HSA_FSA Reimbursement"---
-
-
-With your Truemed Letter of Medical Necessity (LMN), you are now eligible to request HSA/FSA reimbursements for your **recent purchase and all future purchases** for the next 12 months.
-
-HSA/FSA funds can be used for qualified medical expenses. Independent healthcare providers have determined that the products listed in your LMN can help cure, mitigate, treat, or prevent a diagnosed medical condition.
-
-This document explains our process and how to submit your reimbursement. The process should take less than five minutes.
-
----
-
 ## How to Use Your Letter of Medical Necessity (LMN) for HSA/FSA Reimbursement
 
 At [Truemed](https://truemed.com/), our mission is to simplify using HSA/FSA funds to pay for transformative health interventions—from fitness tools to supplements. Our platform empowers you to unlock the full potential of your HSA/FSA dollars for true health investments.
@@ -48,11 +36,9 @@ At [Truemed](https://truemed.com/), our mission is to simplify using HSA/FSA fun
 
 - **Reminder:** You can continue to use the same LMN for future claims as long as it remains valid (within 12 months) and the products or services are intended to cure, mitigate, treat, or prevent your condition.
 
-**Need Specific Instructions?**\
+**Need Specific Instructions?**
 For members using major vendors like Optum, we’ve provided detailed instructions with screenshots below. If you have any questions or encounter issues, please email us at **support@truemed.com** and we’ll respond as soon as possible.
-
----
-
+***
 ## Specific Guides 
 
 [Navia](/en/articles/5217601)
@@ -74,9 +60,7 @@ For members using major vendors like Optum, we’ve provided detailed instructio
 [Benefit Allocation System (BAS)](/en/articles/5217281)
 
 [Basic](/en/articles/5217537)
-
----
-
+***
 ## FAQs
 
 ### What is Truemed?
@@ -111,7 +95,5 @@ For most administrators, expenses are approved within 7-10 days after you submit
 - **Tax Forms:** There are three key forms related to HSAs: IRS Form 1099-SA, 5498-SA, and IRS Form 8889.
 - **Process:** Use the information from your 1099-SA (sent directly by your HSA administrator during tax season) to fill out IRS Form 8889.
 - **Record-keeping:** Retain copies of all submitted documents for your records. For any issues, contact your administrator’s customer service or email [**support@truemed.com**](mailto:support@truemed.com)for guidance.
-
----
-
+***
 *Note: Your LMN represents your provider's clinical opinion that an exercise or food program should be used primarily to prevent disease. This LMN can be used to purchase defined items with your HSA/FSA funds. This service is not a replacement for a Primary Care Provider*

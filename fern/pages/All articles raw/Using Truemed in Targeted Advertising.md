@@ -1,11 +1,3 @@
----
-title: "Using Truemed in Targeted Advertising"---
-
-
-Go above and beyond by applying the same strategies that drive success for Truemed's top partners
-
----
-
 ## **Boost Revenue with Ads**
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/d89e46b4-5ceb-4856-9d28-26de5353c18c.png)We're hearing a consistent trend: **brands who are spending on ads highlighting HSA/FSA eligibility are seeing impressive returns.** It's clear that tapping into the growing awareness around HSA/FSA benefits can significantly boost your campaign's effectiveness—and your bottom line.

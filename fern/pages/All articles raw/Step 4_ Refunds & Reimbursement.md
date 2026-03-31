@@ -1,8 +1,8 @@
----
+***
 title: "Step 4_ Refunds & Reimbursement"---
 
 
-## **\
+## **
 How do refunds work?**
 
 Customers will go through your normal refund process. Truemed will refund 50% of its fee.

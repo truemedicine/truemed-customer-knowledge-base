@@ -1,12 +1,3 @@
----
-title: "Can I Use My HSA_FSA to Purchase a Mattress_"---
-
-
-**Short Answer:**\
-Yes—if your mattress meets IRS and HSA/FSA requirements by being tied to an intervention that treats, reverses, or prevents a diagnosed medical condition, it can be eligible for reimbursement.
-
----
-
 ## Key IRS Guidance
 
 - **Revenue Ruling 55-261:**
@@ -15,9 +6,7 @@ Yes—if your mattress meets IRS and HSA/FSA requirements by being tied to an in
 - **Eligibility Criteria:**
   - The mattress expense is only eligible when its components and construction costs **exceed those of a standard mattress** intended for general health.
   - The mattress must be tied directly to a treatment or intervention for a specific medical condition.
-
----
-
+***
 ## Documentation Requirements
 
 - **Letter of Medical Necessity (LMN):**
@@ -30,9 +19,7 @@ Yes—if your mattress meets IRS and HSA/FSA requirements by being tied to an in
     - Resources for sleep cycle optimization
 
 These features help demonstrate that the mattress is designed to provide a therapeutic benefit for your diagnosed condition.
-
----
-
+***
 ## What You Can Do If Your Claim Is Denied
 
 - **Review the Denial:**
@@ -45,9 +32,7 @@ These features help demonstrate that the mattress is designed to provide a thera
     - A copy of your LMN that ties the mattress directly to the treatment, reversal, or prevention of your condition.
 - **Contact Support:**
   - If you encounter any issues with your appeal or need further clarification on the documentation, please reach out to us.
-
----
-
+***
 ## Final Thoughts
 
 Your mattress can be an eligible HSA/FSA expense when it is prescribed as part of a medically necessary intervention and its design exceeds that of a standard mattress. The key factors are that your LMN meets IRS requirements and that the product features are tailored to treat, reverse, or prevent your diagnosed condition.

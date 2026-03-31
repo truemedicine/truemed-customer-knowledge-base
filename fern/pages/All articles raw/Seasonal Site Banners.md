@@ -1,12 +1,3 @@
----
-title: "Seasonal Site Banners"---
-
-
-
-![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/42273a49-625f-46ee-851b-b5860a238fa8.png)*Banners offer a quick, high-visibility way to announce HSA/FSA eligibility during critical spending seasons. Use the one-liners below to create compliant homepage banners that promote the HSA/FSA payment option on your site.* 
-
----
-
 ## **Open Enrollment (Sept–Nov)**
 
 **Sample Banner Copy:**
@@ -26,9 +17,7 @@ title: "Seasonal Site Banners"---
 > \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](http://truemed.com/disclosures)
 
 For site banners, you can include the disclaimer just above your footer navigation. If the disclaimer is missing, we may ask you to update or remove the asset. 
-
----
-
+***
 ## **Black Friday / Cyber Monday**
 
 **Sample Banner Copy:**
@@ -48,9 +37,7 @@ For site banners, you can include the disclaimer just above your footer navigati
 > \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](http://truemed.com/disclosures)
 
 For site banners, you can include the disclaimer just above your footer navigation. If the disclaimer is missing, we may ask you to update or remove the asset. 
-
----
-
+***
 ## **End-of-Year / FSA Expiration (Dec)**
 
 **Sample Banner Copy:**
@@ -73,7 +60,7 @@ For site banners, you can include the disclaimer just above your footer navigati
 
 Drive more urgency during the month of December with an FSA countdown banner.
 
-> \[Number of days until January 1\] Days Left: Use Your FSA Before It Expires\*\
+> \[Number of days until January 1\] Days Left: Use Your FSA Before It Expires\*
 > Explore Eligible Items
 
 For best results, direct the CTA link to your[ **HSA/FSA Eligible Product Collection**](https://support.truemed.com/en/articles/7261761).
@@ -83,9 +70,7 @@ For best results, direct the CTA link to your[ **HSA/FSA Eligible Product Collec
 > \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](http://truemed.com/disclosures)
 
 For site banners, you can include the disclaimer just above your footer navigation. If the disclaimer is missing, we may ask you to update or remove the asset. 
-
----
-
+***
 ## **New Year, New You (Jan–Feb)**
 
 **Sample Banner Copy:**

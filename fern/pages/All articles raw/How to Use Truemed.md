@@ -1,4 +1,4 @@
----
+***
 title: "How to Use Truemed"---
 
 
@@ -14,4 +14,4 @@ Here you will find a list of merchants who have completed our compliance evaluat
 
 ## Step #3: Follow the steps listed on the specific merchant’s page
 
-Once you find a merchant you intend to utilize, follow the specific steps listed on the merchant's page. 
+Once you find a merchant you intend to utilize, follow the specific steps listed on the merchant's page.

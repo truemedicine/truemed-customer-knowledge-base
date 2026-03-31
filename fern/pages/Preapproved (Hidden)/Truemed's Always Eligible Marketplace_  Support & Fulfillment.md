@@ -1,13 +1,3 @@
----
-title: "Truemed's Always Eligible Marketplace_  Support & Fulfillment"---
-
-
-## Welcome to Truemed's Always Eligible Marketplace
-
-Your one-stop shop for HSA/FSA covered items that don't require an LMN. Every item in this marketplace is pre-certified, meaning no Letter of Medical Necessity (LMN) is required for purchase.
-
----
-
 **1. Contacting Customer Support**
 
 For any questions about your order, eligibility, or account, please use our unified support team email address. Your inquiry will be automatically directed to the correct team:
@@ -27,9 +17,7 @@ Before reaching out, here are some quick solutions to common questions:
 **Policy Questions:** For detailed policies regarding Returns, Exchanges, Shipping Times, or Order Cancellation, please visit our full Marketplace Shopping & Orders FAQ.
 
 **To Speed Up Your Resolution:** Please include your Order Number for all shipping or transaction questions, or the Full Product Name for eligibility inquiries.
-
----
-
+***
 **About Truemed**
 
 Truemed is a health technology company dedicated to making it easier and simpler for consumers to use their FSA and HSA funds for wellness and health-focused purchases.

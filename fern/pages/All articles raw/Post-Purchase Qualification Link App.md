@@ -1,4 +1,4 @@
----
+***
 title: "Post-Purchase Qualification Link App"---
 
 
@@ -22,12 +22,12 @@ To support this transition, **Truemed has developed an app** that seamlessly int
 
 3. Follow the instructions provided to **Configure Truemed Now**
 
-![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/c0eb7543-3085-40ec-bb35-f0266f77a36b.png)4. When asked for your **Truemed Public Id**, you can either reach out to [merchants@truemed.com](mailto:merchants@truemed.com) or find it at [app.truemed.com/merchants/qualifications](https://app.truemed.com/merchants/qualifications).\
+![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/c0eb7543-3085-40ec-bb35-f0266f77a36b.png)4. When asked for your **Truemed Public Id**, you can either reach out to [merchants@truemed.com](mailto:merchants@truemed.com) or find it at [app.truemed.com/merchants/qualifications](https://app.truemed.com/merchants/qualifications).
    Your ID is the last part of your Qualification Link.
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/5c428cfc-7a57-4fd5-afa4-a0757e3ea5c2.png)
 
-5. **Save** your changes. The app is now installed! Customers will now find your Truemed Qualification Survey on their Order Confirmation pages.\
+5. **Save** your changes. The app is now installed! Customers will now find your Truemed Qualification Survey on their Order Confirmation pages.
    *Note: To show the qualification link only for subscriptions in the order confirmation, toggle the setting within the checkout extension in the editor.*
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/861237fd-b863-4ead-8a30-917be625f00a.png)

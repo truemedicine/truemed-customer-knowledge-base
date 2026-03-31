@@ -1,14 +1,3 @@
----
-title: "Product Update_ Streamlined Survey & Checkout Experience"---
-
-
-## **\
-Overview**
-
-We’ve rolled out a more seamless survey and checkout flow designed to reduce friction, minimize clicks, and give customers a smoother experience that matches (and exceeds) industry benchmarks.
-
----
-
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/3c540e4d-6dab-428d-bdea-e7416090efeb.png)## **What’s Changed**
 
 **Before:**
@@ -34,9 +23,7 @@ We’ve rolled out a more seamless survey and checkout flow designed to reduce f
 - Average of **30% fewer clicks** required to complete a survey.
 
 - Early results show a positive impact on conversion rates *(as of 9/23/25).*
-
----
-
+***
 ## **Why This Matters**
 
 A smoother, faster survey and checkout experience leads to:
@@ -46,9 +33,7 @@ A smoother, faster survey and checkout experience leads to:
 - Less customer drop-off.
 
 - Improved alignment with customer expectations across e-commerce.
-
----
-
+***
 ## **What to Expect**
 
 - This update is automatically live across your checkout flow.

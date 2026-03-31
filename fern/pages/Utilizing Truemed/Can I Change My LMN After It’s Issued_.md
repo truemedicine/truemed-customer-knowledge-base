@@ -1,11 +1,3 @@
----
-title: "Can I Change My LMN After It’s Issued_"---
-
-
-**Short Answer:** Some changes to an LMN may be possible—such as updating the diagnosis, adding a product, or including additional supporting details—but each request must be made by our independent, licensed third-party partner providers. Certain elements, like the merchant name and the issue date, **cannot** be changed once the LMN has been generated.
-
----
-
 ## Possible Changes to LMNs
 
 - **Diagnosis**
@@ -24,9 +16,7 @@ title: "Can I Change My LMN After It’s Issued_"---
   - If your HSA/FSA administrator has changed since you originally completed the survey—or if you only recently identified who your administrator is—Truemed can have your LMN reissued on a different template that meets the new administrator’s guidelines.
 
 **Important:** All change requests must be reviewed and approved by a **licensed, independent third-party provider** to ensure ongoing medical necessity.
-
----
-
+***
 ## What Truemed **Cannot** Change
 
 1. **Merchant**
@@ -35,9 +25,7 @@ title: "Can I Change My LMN After It’s Issued_"---
 2. **Date**
    - The date on the LMN is strictly determined by the day you completed your clinical survey.
    - Adjusting the date after the fact would be considered a misrepresentation of when your medical necessity was established, so Truemed cannot change it.
-
----
-
+***
 ## How to Request a Change
 
 1. **Contact Truemed Support**
@@ -47,9 +35,7 @@ title: "Can I Change My LMN After It’s Issued_"---
    - A licensed third-party medical professional will review your request and the other information you have submitted to make an updated determination regarding medical necessity. If they approve, they'll issue you an updated LMN.
 3. **Receive Your Updated LMN**
    - If the changes are approved, Truemed will send you the revised LMN. Present this to your HSA/FSA administrator as needed.
-
----
-
+***
 ## Questions or Concerns?
 
 If you’re unsure whether your situation calls for a new or updated LMN, or if you have questions about the process, please contact Truemed support at support@truemed.com. We’re happy to help guide you through these updates to ensure you remain compliant with your HSA/FSA plan requirements.

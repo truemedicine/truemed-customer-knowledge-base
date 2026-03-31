@@ -1,4 +1,4 @@
----
+***
 title: "Receipt Requirements for Reimbursement"---
 
 
@@ -14,4 +14,4 @@ When it is time to submit a claim to your HSA/FSA administrator for reimbursemen
 
 ### Product/Service Description Tips
 
-Specifically looking at the product description, a description with vague terms like “membership,” “program,” or “class” can be flagged by administrators. A receipt should include a detailed description that clearly describes the product or service being received. 
+Specifically looking at the product description, a description with vague terms like “membership,” “program,” or “class” can be flagged by administrators. A receipt should include a detailed description that clearly describes the product or service being received.

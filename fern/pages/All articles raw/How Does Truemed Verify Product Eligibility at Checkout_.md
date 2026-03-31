@@ -1,4 +1,4 @@
----
+***
 title: "How Does Truemed Verify Product Eligibility at Checkout_"---
 
 

@@ -1,4 +1,4 @@
----
+***
 title: "Social Channels"---
 
 
@@ -76,7 +76,7 @@ If the disclaimer is missing, we may ask you to update or remove the asset. 
 
 Note: If our team is made aware of any noncompliant copy, we will reach out to ask you to update or remove the asset.
 
-### **\
+### **
 Compliance Reminder**
 
 Following Truemed’s compliance guidelines protects customers from misleading claims and keeps your brand aligned with IRS/HSA/FSA rules, reducing the risk of ad rejections or takedowns. It also preserves trust and lowers the chance of disputes or chargebacks by setting accurate expectations about eligibility and savings.

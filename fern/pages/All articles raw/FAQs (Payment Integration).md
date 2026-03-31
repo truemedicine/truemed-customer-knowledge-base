@@ -1,11 +1,3 @@
----
-title: "FAQs (Payment Integration)"---
-
-
-These FAQs are intended for our merchant partners using our Shopify or custom integration.
-
----
-
 **How does using my HSA/FSA account save me money?**
 
 HSA/FSA accounts were created so individuals could use pre-tax money to pay for expenses used to treat, mitigate, or prevent a diagnosed medical condition. Because HSA/FSAs use pre-tax money, you’re getting more purchasing power for your dollars. Rather than pay taxes on income and then spend it on health items, qualified customers can use pre-tax funds to invest in their health.
@@ -18,8 +10,8 @@ Health savings accounts (HSA) and flexible spending accounts (FSA) are programs 
 
 **Can I use my HSA/ FSA at \[Merchant Name\]?**
 
-Yes, if qualified. Simply select Truemed as your payment option at checkout and use your FSA or HSA card as you would any other credit card. If you do not have sufficient HSA/FSA funds, you can split your payment between your credit card and HSA/FSA card.\
-\
+Yes, if qualified. Simply select Truemed as your payment option at checkout and use your FSA or HSA card as you would any other credit card. If you do not have sufficient HSA/FSA funds, you can split your payment between your credit card and HSA/FSA card.
+
 Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](https://docs.google.com/document/d/19Cxl1ZbXTX25_44rZ8Mbj3nKfsuzmHVOXm7uYuVKewk/edit?tab=t.0#heading=h.8fnbt71wtlyg)
 
 **Can I use my regular credit card at checkout?**
@@ -30,7 +22,7 @@ Yes. If you’d like to use your regular credit card, simply select that in True
 
 The items in your Truemed Letter of Medical Necessity (“LMN”) are now qualified medical expenses in the same way a visit to the doctor’s office or pharmaceutical product is.
 
-\
+
 There are thousands of studies showing food and exercise is often the best medicine to prevent and reverse disease. Exercise qualifies as a qualified medical expense with an LMN. Food, supplements, and other health purchases qualify as medical expenses if they treat or prevent an illness, and a doctor substantiates the need. Your Truemed LMN satisfies all IRS requirements to make your wellness spend fully reimbursable.
 
 **Are there fees associated with using Truemed's services?**

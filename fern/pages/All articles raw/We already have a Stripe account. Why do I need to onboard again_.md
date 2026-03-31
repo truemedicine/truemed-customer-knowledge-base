@@ -1,4 +1,4 @@
----
+***
 title: "We already have a Stripe account. Why do I need to onboard again_"---
 
 

@@ -1,22 +1,8 @@
----
-title: "Is Eight Sleep HSA_FSA Eligible_"---
-
-
-# Purchasing Your Eight Sleep Pod with HSA/FSA via TrueMed
-
-## Overview
-
-Eight Sleep has partnered with TrueMed to make it simpler for you to use your Health Savings Account (HSA) or Flexible Spending Account (FSA) when purchasing Eight Sleep Pod Covers and Mattresses. By following the steps below, you could save up to 30% on select Eight Sleep products.
-
----
-
 ## 1. How HSA/FSA Coverage Works with Eight Sleep
 
 - **Eligible Products**: Many core products, including the Pod Covers and Mattresses, may be considered qualified expenses under certain HSA/FSA plans.
 - **TrueMed Partnership**: TrueMed provides a quick medical intake process. If you are eligible, Truemed can issue a Letter of Medical Necessity (LMN).
-
----
-
+***
 ## 2. Using your HSA/FSA for Eight Sleep Purchases
 
 1. **Add Products to Cart**
@@ -34,9 +20,7 @@ Eight Sleep has partnered with TrueMed to make it simpler for you to use your He
 5. **Save Your Documentation**
    - Once your order is confirmed, keep the email receipt, invoice, and LMN (if applicable).
    - This documentation will be key if you need to submit a reimbursement claim.
-
----
-
+***
 ## 3. Frequently Asked Questions (FAQ)
 
 ### 3.1 Will I always need a Letter of Medical Necessity (LMN)?
@@ -54,9 +38,7 @@ You can pay with a personal debit/credit card and then file a reimbursement clai
 ### 3.4 How long does it take to get reimbursed?
 
 Each HSA/FSA plan handles claims differently. Once you submit a claim with all required paperwork, most plans process reimbursement within a few weeks.
-
----
-
+***
 ## 4. Special Orders & Custom Invoices
 
 Occasionally, you may require items like a replacement Pod Cover or an out-of-warranty part. In these cases, you’ll receive a **custom invoice** from Eight Sleep instead of using the standard checkout process.
@@ -68,16 +50,12 @@ Occasionally, you may require items like a replacement Pod Cover or an out-of-wa
   2. Complete the survey and obtain your LMN.
   3. Pay the custom invoice once your LMN is in hand.
 - **Seek Reimbursement**: After payment, submit the invoice and your LMN to your HSA/FSA administrator for potential reimbursement.
-
----
-
+***
 ## 5. Tips for a Smooth Experience
 
 - **Keep All Documents**: Store your receipts, LMN, and any support communications in case your plan requires them.
 - **Contact Support for Assistance**: If you’re unsure about any step—especially custom invoices—Truemed Support is here to help.
-
----
-
+***
 ## 6. Need Help?
 
 If you have additional questions or face any difficulties:

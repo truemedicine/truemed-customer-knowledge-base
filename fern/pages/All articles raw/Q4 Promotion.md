@@ -1,11 +1,3 @@
----
-title: "Q4 Promotion"---
-
-
-Q4 is the make-or-break season for retailers, with a staggering **nearly 30% of annual retail sales** occurring in the final quarter of the year—meaning the next few months could account for a huge chunk of your yearly revenue! Here you'll find our best tips to maximize potential revenue
-
----
-
 ## The Q4 Opportunity
 
 ### Open Enrollment
@@ -19,9 +11,7 @@ A key opportunity for Q4 HSA/FSA marketing is the expiration of Flexible Spendin
 ### Seasonal Consumer Behavior
 
 Q4 is marked by heightened consumer activity, as shoppers seek gifts and focus on personal health as the new year approaches. This is the perfect moment to engage customers looking for products that align with their health resolutions.
-
----
-
+***
 ## December: *FSA Use It or Lose It*
 
 Did you know that **$4.5 billion** in FSA funds go unspent every year, with many members scrambling to use their balance in December? If they don’t spend it by December 31, it’s gone! 

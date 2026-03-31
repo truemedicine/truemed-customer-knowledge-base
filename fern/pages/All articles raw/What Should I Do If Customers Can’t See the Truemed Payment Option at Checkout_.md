@@ -1,4 +1,4 @@
----
+***
 title: "What Should I Do If Customers Can’t See the Truemed Payment Option at Checkout_"---
 
 
@@ -6,7 +6,7 @@ If your customers report that the **Truemed – Pay with HSA/FSA** option isn’
 
 ### **1. Shop Pay Is Enabled**
 
-Truemed is not currently compatible with **Shop Pay**.\
+Truemed is not currently compatible with **Shop Pay**.
 Ask your customer to:
 
 - Click “Check out as guest” instead of using Shop Pay.
@@ -15,7 +15,7 @@ Ask your customer to:
 
 ### **2. There’s a Subscription in the Cart**
 
-Truemed is only available for **one-time purchases**.\
+Truemed is only available for **one-time purchases**.
 If a subscription product is in the cart, the Truemed payment option will not be shown.
 
 ### **Next Steps:**

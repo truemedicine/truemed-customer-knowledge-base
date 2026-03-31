@@ -1,11 +1,3 @@
----
-title: "HSA_FSA Promotion_ Seasonal Planning"---
-
-
-Enhancing your marketing strategy by aligning key messaging and best practices with each quarter can effectively promote HSA/FSA spending among your customers. Below is a comprehensive guide to quarterly strategies:
-
----
-
 ## Key Messaging & Best Practices by Quarter
 
 ## Quarter 1
@@ -19,9 +11,7 @@ Key Messaging
 
 - **New Year, New You**: Encourage customers to invest in their health as part of their New Year's resolutions, highlighting products eligible for HSA/FSA spending.
 - **Replenished Funds Reminder:** Inform customers that their HSA/FSA funds have been replenished for the new year, prompting them to utilize these benefits early.
-
----
-
+***
 ## Quarter 2
 
 *Best Practices:*
@@ -32,9 +22,7 @@ Key Messaging
 *Key Messaging:*
 
 - **Tax Season Insights:** Leverage tax season to educate customers on the pre-tax benefits of HSA/FSA spending, emphasizing how they can maximize their tax savings.
-
----
-
+***
 ## Quarter 3
 
 *Best Practices:*
@@ -46,9 +34,7 @@ Key Messaging
 
 - **Plan Ahead for Benefits:** Encourage customers to prepare for open enrollment by educating them on maximizing their health benefits for the following year.
 - **Immunity Support:** Highlight the importance of strong health routines, made more affordable with HSA/FSA payment options, especially during the approaching cold and flu season.
-
----
-
+***
 ## Quarter 4 (The most critical time for HSA/FSA spending!)
 
 *Best Practices:*
@@ -62,4 +48,4 @@ Key Messaging
 - **FSA Deadline Alert:** Drive urgency by reminding customers that FSA funds expire at the end of the calendar year, encouraging them to make purchases to avoid losing their benefits. Find copy templates [**here**](/en/articles/4608065#send_fsa_focused_emails). 
 - **Stack Your Savings:** Promote combined savings opportunities during Black Friday, highlighting how customers can maximize discounts by using their HSA/FSA funds.
 
-See our full [**Q4 Promotional Guide**](/en/articles/4608065#the_q_4_opportunity). 
+See our full [**Q4 Promotional Guide**](/en/articles/4608065#the_q_4_opportunity).

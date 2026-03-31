@@ -1,47 +1,3 @@
----
-title: "Seasonal Homepage Feature"---
-
-
-
-![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/013c5106-85e0-4d30-b3b4-37542a7f1add.png)Your homepage is one of the highest-impact places to highlight HSA/FSA eligibility—especially during key seasonal moments when customers are actively making benefit decisions or looking to spend pre-tax dollars. By updating your homepage feature block with timely, relevant messaging, you can drive awareness, increase conversion, and help your customers save an average of 30% using their HSA/FSA funds.
-
-Below, you’ll find ready-to-use copy for four high-impact windows: 
-
-- **Open Enrollment (October & November)**
-
-- **Black Friday/Cyber Monday (BFCM)**
-
-- **FSA Expiration (December)**
-
-- **New Year, New You**
-
-Each section includes suggested headlines, body copy, and call-to-action (CTA) buttons that link directly to your **HSA/FSA landing page** or **eligible product collection.**
-
-## 
-
-![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/b2395684-058a-4a16-9e8a-bdbc7f177d56.png)## **OPEN ENROLLMENT (Oct–Nov)**
-
-**Headline Options:**
-
-- Planning Your 2026 Benefits? Save with HSA/FSA
-
-- Get More from Your Benefits with HSA/FSA Savings
-
-- Open Enrollment Is Here—Sign Up For A Plan With An HSA/FSA
-
-**Body Copy:**\
-Fid you know \[your product category\] may be HSA/FSA eligible? Choose a health benefits plan with an HSA or FSA, and save an average of 30%\* on our products by using pre-tax dollars.
-
-\*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](http://truemed.com/disclosures). To see your estimated savings, checkout the [TrueSavings Estimator.](http://truemed.com/savings-estimator)
-
-**CTA Options:**
-
-- “Explore HSA/FSA Eligible Products” → \[link to collection\]
-
-- “How It Works” → \[link to landing page\]
-
----
-
 ## **BLACK FRIDAY / CYBER MONDAY (Nov)**
 
 **Headline Options:**
@@ -52,7 +8,7 @@ Fid you know \[your product category\] may be HSA/FSA eligible? Choose a health 
 
 - Black Friday Savings + 30% Average Savings with HSA/FSA Pre-Tax Dollars?\* Yes Please.
 
-**Body Copy:**\
+**Body Copy:**
 Our biggest sale of the year just got even better. If you qualify, you can use HSA/FSA funds to shop and stack pre-tax savings (averaging 30%\*) on top of site wide deals. This is your moment.
 
 \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures.](http://truemed.com/disclosures) To see your estimated savings, checkout the [TrueSavings Estimator.](http://truemed.com/savings-estimator)
@@ -62,9 +18,7 @@ Our biggest sale of the year just got even better. If you qualify, you can use H
 - “Shop Eligible Products” → \[link to collection\]
 
 - “Learn More” → \[link to landing page\]
-
----
-
+***
 ## **FSA EXPIRATION (Late Dec)**
 
 **Headline Options:**
@@ -75,7 +29,7 @@ Our biggest sale of the year just got even better. If you qualify, you can use H
 
 - Last Call: Use Your FSA Before It’s Gone
 
-**Body Copy:**\
+**Body Copy:**
 Don’t leave money on the table. Many FSA funds expire on December 31. Shop eligible products and save an average of 30% before time runs out.\*
 
 \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures.](http://truemed.com/disclosures) To see your estimated savings, checkout the [TrueSavings Estimator.](http://truemed.com/savings-estimator)
@@ -85,9 +39,7 @@ Don’t leave money on the table. Many FSA funds expire on December 31. Shop eli
 - “Shop Eligible Products” → \[link to collection\]
 
 - “Learn More” → \[link to landing page\]
-
----
-
+***
 ## **NEW YEAR, NEW YOU (Jan)**
 
 **Headline Options:**
@@ -98,7 +50,7 @@ Don’t leave money on the table. Many FSA funds expire on December 31. Shop eli
 
 - Prioritize Your Health with Pre-Tax Dollars
 
-**Body Copy:**\
+**Body Copy:**
 It’s a new year, and your benefits just reset. Invest in your health goals with pre-tax HSA/FSA funds. Most customers save an average of 30% when using HSA/FSA instead of regular payment methods.\*
 
 \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures.](http://truemed.com/disclosures) To see your estimated savings, checkout the [TrueSavings Estimator.](http://truemed.com/savings-estimator)

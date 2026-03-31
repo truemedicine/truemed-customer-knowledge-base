@@ -1,4 +1,4 @@
----
+***
 title: "What If I Need a Recurring LMN for a Subscription or Ongoing Purchase_"---
 
 
@@ -17,7 +17,7 @@ The IRS requires that LMNs are valid only for the period during which the treati
 
 ### Additional Information
 
-You can find more details on how LMNs work and when they are required here:\
+You can find more details on how LMNs work and when they are required here:
 [Understanding Your LMN and When It Expires](/en/articles/5214145)
 
 ### Still Have Questions?

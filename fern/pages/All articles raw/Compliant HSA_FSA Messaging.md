@@ -1,11 +1,3 @@
----
-title: "Compliant HSA_FSA Messaging"---
-
-
-Give your team plug‑and‑play, *compliant* language to market HSA/FSA payments through Truemed—without slowing down creative.
-
----
-
 ## Fast Rules (Print & Pin)
 
 **Do:**
@@ -13,7 +5,7 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 - Treat eligibility as conditional ("may be eligible," "if you qualify").
 - Tie eligibility to **specific products** or **narrow categories** unless *nearly all* products qualify.
 - Use precise terminology: *practitioner / clinician / healthcare provider*, *clinical intake form / health survey / medical questionnaire*, *Letter of Medical Necessity (LMN).*
-- Place the disclaimer **near** the claim and make it readable:\
+- Place the disclaimer **near** the claim and make it readable:
   *Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at truemed.com/disclosures.*
 - When using savings, present as **average of 30%** and add the disclaimer.
 
@@ -24,9 +16,7 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 - Use vague wellness language as a basis for eligibility ("feel energized," "radiant").
 - Call clinicians "our" or say "doctor" or "doctor’s note."
 - Say Truemed is free or paid by someone else; use **“included in the purchase price.”**
-
----
-
+***
 ## Mandated Terminology
 
 **Use**
@@ -42,9 +32,7 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 - "Doctor" / "doctor’s note"
 - "Quick survey" (don’t diminish rigor)
 - "Free with Truemed" (instead: *The cost of Truemed’s services is included in your purchase price.*)
-
----
-
+***
 ## How to Talk About Eligibility (Product vs. Category)
 
 **Product‑level (preferred for mixed catalogs):**
@@ -65,9 +53,7 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 
 - *\[Brand\] is HSA/FSA approved.*
 - *Use your HSA/FSA on our entire \[Category\].*
-
----
-
+***
 ## How to Talk About Savings
 
 **What’s allowed:**
@@ -87,22 +73,18 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 - *Save 30% now!*
 - Unqualified "save an average of 30%" with no disclaimer.
 
-**Required disclaimer near the claim:**\
+**Required disclaimer near the claim:**
 *Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at truemed.com/disclosures.*
-
----
-
+***
 ## Placement & Design of Disclaimers
 
 - **Proximity:** Put the disclaimer on the same screen/creative as the claim, or use an asterisk (\*) and point to a clearly visible footer.
 - **Readability:** Not tiny; contrast against background; in video, visible for **3–4 seconds** minimum.
 - **Links:** If in text, hyperlink to **truemed.com/disclosures**. In images/video, the URL text is sufficient.
 
-**Combined disclaimer (covers eligibility + savings):**\
+**Combined disclaimer (covers eligibility + savings):**
 *Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at truemed.com/disclosures.*
-
----
-
+***
 ## Copy Bank — Headlines & Captions
 
 ### A) Always‑On Announcements (mixed catalogs)
@@ -119,9 +101,7 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 - *Some products may qualify for HSA/FSA with a Truemed LMN. Check eligibility at checkout.*
 
 **Add disclaimer** (place near or in caption).
-
----
-
+***
 ### B) Product‑Specific (single SKU)
 
 **Headlines**
@@ -132,9 +112,7 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 **Captions**
 
 - *This item may be HSA/FSA‑eligible when used for a specific health condition. Complete the health survey to see if you qualify.*
-
----
-
+***
 ### C) Savings‑Forward (with disclaimer)
 
 **Headlines**
@@ -147,9 +125,7 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 - *Qualified customers can use HSA/FSA and save an average of 30% on eligible items. Check eligibility with Truemed.*
 
 **Required:** Add combined disclaimer.
-
----
-
+***
 ## Approved Seasonal Copy Examples
 
 ### Open Enrollment
@@ -177,9 +153,7 @@ Give your team plug‑and‑play, *compliant* language to market HSA/FSA payment
 - *Start the year strong—use HSA/FSA funds to save an average of 30%*.
 
 **Always include the disclaimer** near these statements.
-
----
-
+***
 ## "Acceptable With Disclaimer" Phrase Bank
 
 Use these *only* when the disclaimer is visible on the same creative (or clearly asterisked to a footer):
@@ -190,11 +164,9 @@ Use these *only* when the disclaimer is visible on the same creative (or clearly
 - *Qualified customers can pay with HSA/FSA at checkout*.
 - *\[Brand/Product\] may be HSA/FSA‑eligible with a Truemed LMN*.
 
-**Required disclaimer:**\
+**Required disclaimer:**
 *Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at truemed.com/disclosures.*
-
----
-
+***
 ## Pre‑Publication Compliance Checklist
 
 1. **Conditional language?** (may / if you qualify / with LMN)
@@ -205,24 +177,20 @@ Use these *only* when the disclaimer is visible on the same creative (or clearly
 6. **Medical benefits over general wellness?** (tie to treating/managing conditions)
 7. **No "free Truemed" language?** (use “included in the purchase price”)
 8. **Disclaimer placement** (near claim; readable; link if text)
-
----
-
+***
 ## FAQs 
 
-- **Can we say "\[Brand\] is HSA/FSA eligible"?**\
+- **Can we say "\[Brand\] is HSA/FSA eligible"?**
   Not for mixed catalogs. Use product‑specific or “some products may qualify.”
-- **Do we have to mention LMN?**\
+- **Do we have to mention LMN?**
   Yes, where practicable. Eligibility generally requires an LMN.
-- **Do we need the disclaimer if the claim is tiny?**\
+- **Do we need the disclaimer if the claim is tiny?**
   Yes—use proximity or an asterisk to a visible footer.
-- **Can we say how fast or how likely approval is?**\
+- **Can we say how fast or how likely approval is?**
   Avoid. Only use specific turnaround stats if you can substantiate for a large majority.
-- **How do we describe clinician review?**\
+- **How do we describe clinician review?**
   *An independent licensed practitioner will review your clinical intake form.*
-
----
-
+***
 ## Contact
 
 Want a pre‑flight review? Send assets to [**merchants@truemed.com**](mailto:merchants@truemed.com) before go‑live.

@@ -1,29 +1,3 @@
----
-title: "HSA_FSA Headers & Footers"---
-
-
-Adding HSA/FSA language to your email templates is one of the easiest ways to increase awareness and drive conversion. Merchants who consistently include this messaging see higher engagement and more reimbursed purchases
-
-## **Suggested Copy**
-
-### **Option 1 (with CTA):**
-
-> *Save an average of 30% on \[Company Name\] using your HSA/FSA if eligible. \[Learn More →\]*
-
-*Link the CTA to your HSA/FSA landing page or education resource.*
-
-### **Option 2 (short + bold):**
-
-> *HSA/FSA Eligible. Save an average of 30%.*
-
-**Important:** Please include our compliance disclaimer on any HSA/FSA messaging:
-
-> \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](http://truemed.com/disclosures)
-
-For email header and footer blocks, you can include the disclaimer just above your footer navigation. If the disclaimer is missing, we may ask you to update or remove the asset.
-
----
-
 ## **Where to Add Messaging**
 
 We recommend adding HSA/FSA messaging to the **top or bottom of every email template**, including:

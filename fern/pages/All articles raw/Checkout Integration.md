@@ -1,4 +1,4 @@
----
+***
 title: "Checkout Integration"---
 
 
@@ -13,4 +13,4 @@ The Truemed checkout integration enables your customers to pay directly with the
 
 **How to do it:**
 
-The Shopify app is added during your 30 minute implementation call with our engineering team. If you do not have the product page widget or checkout integration, please reach out to us at [merchants@truemed.com](mailto:merchants@truemed.com), and we will be happy to help make this live. 
+The Shopify app is added during your 30 minute implementation call with our engineering team. If you do not have the product page widget or checkout integration, please reach out to us at [merchants@truemed.com](mailto:merchants@truemed.com), and we will be happy to help make this live.

@@ -1,30 +1,3 @@
----
-title: "Marketing Playbook_ A Successful Launch"---
-
-
-### **\
-Purpose**
-
-Unlock the full potential of offering HSA/FSA payment options by using email to drive awareness and engagement throughout the buyer's journey.
-
-In this guide, you'll find best practices for strategically leveraging email to boost HSA/FSA spending by your customers.
-
-![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/8924d2d5-e205-439a-b38b-6806014bd0af.png)### **Promotional Principles**
-
-1. **Be direct:** Assume this is a new concept to your consumers. Emphasize:
-
-   1. **What** this is (30% savings)
-
-   2. **How** to do it
-
-   3. **Who** is eligible
-
-2. **Be repetitive:** Deliver the message multiple times, across multiple channels, throughout the buying journey.
-
-3. **Get creative:** Try different channels. Target different cohorts with different messages. Integrate the HSA/FSA message into the other campaigns. See what works for your audience.
-
----
-
 ## **HSA/FSA Landing Page**
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/bbdac819-aa0c-4ccb-a306-04e245645119.png)**How long this should take:**
@@ -48,9 +21,7 @@ We’ve provided a figma file template with suggested copy to make it easy to dr
 *Note: Be sure to include "hsa-fsa" in your landing page URL to maximize SEO*
 
 [**Truemed Landing Page Template**](https://www.figma.com/design/ixu23EnLMBz1QCtyNVR0Lg/D2C-Merchant-Landing-Page-Template?node-id=0-1&p=f&t=4cdWVUL0GHNHFawj-0)
-
----
-
+***
 ## **Emails**
 
 ## **Launch Email**
@@ -84,9 +55,7 @@ Case studies have shown that open rates and CTRs for this promotional email are 
 **Sample Launch Email**
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/7b60dba6-cc57-4fec-9e2b-83dd76ce6b9c.png)
-
----
-
+***
 ## **Welcome & Renewal Email Footers**
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/d99b8666-48dc-4a43-a02c-93c0e65f21e7.png)**How long should this take?**
@@ -102,9 +71,7 @@ Add a Truemed CTA to the footer of all emails to consistently remind customers o
 Copy and paste the below text into the footer of existing marketing emails.
 
 > Get reimbursed an average of 30% for the next year on your \[Merchant Name\] membership using your HSA/FSA. To get started, take a 2 minute survey and pay a $30 fee: Qualify for HSA/FSA Spending \[CTA linking your survey link\]
-
----
-
+***
 ## **Website** 
 
 ## **Homepage Feature**
@@ -144,9 +111,7 @@ If you do **not** have an [HSA/FSA landing page](https://support.truemed.com/en/
 If you have an [HSA/FSA landing page](https://support.truemed.com/en/articles/3214145#hsa_fsa_landing_page):
 
 [table]
-
----
-
+***
 ## **Launch Social Post & Story**
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/99b7a8c8-2526-485b-a4fb-15ac3bc900d5.png)
@@ -182,9 +147,7 @@ Copy & paste this caption into your post on social media. Tag us (@truemedpaymen
 - [Favorite posts from partner brands](https://app.frontapp.com/cell-00020/api/1/companies/43b8141155d02d812a87/knowledge_bases/18113/preview/articles/2488961?previewMode=draft&locale=en)
 
 - [Compliant language guide](https://support.truemed.com/en/articles/2489153)
-
----
-
+***
 ## **In-App Push Notification**
 
 ## **How long should this take?**
@@ -200,9 +163,7 @@ Stand out as a leader in the health and wellness space all while helping your cu
 Add the following copy to a content block on your website’s homepage. 
 
 > Get reimbursed an average of 30% for the next year on your \[Merchant Name\] membership using your HSA/FSA. To get started, take a 2 minute survey and pay a $30 fee: Qualify for HSA/FSA Spending \[CTA linking your survey link\]
-
----
-
+***
 ## **In-Studio QR Code Flyer**
 
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/553a23d6-6400-42cf-b401-79af0005e4af.png)**How long should this take?**

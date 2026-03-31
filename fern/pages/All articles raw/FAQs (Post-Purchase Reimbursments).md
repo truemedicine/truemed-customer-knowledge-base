@@ -1,11 +1,3 @@
----
-title: "FAQs (Post-Purchase Reimbursments)"---
-
-
-This FAQ is intended for Truemed partner merchants who do not have our payment integration, and rather use our post-purchase reimbursement flow.
-
----
-
 **How does using my HSA/FSA account save me money?**
 
 HSA/FSA accounts were created so individuals could use pre-tax money to pay for expenses used to treat, mitigate, or prevent a diagnosed medical condition. Because HSA/FSAs use pre-tax money, you’re getting more purchasing power for your dollars. Rather than pay taxes on income and then spend it on health items, qualified customers can use pre-tax funds to invest in their health.
@@ -36,10 +28,10 @@ If you have already received a Letter of Medical Necessity for purchasing specif
 
 The items in your Truemed Letter of Medical Necessity (“LMN”) are now qualified medical expenses in the same way a visit to the doctor’s office or pharmaceutical product is.
 
-\
+
 There are thousands of studies showing food and exercise is often the best medicine to prevent and reverse disease. Exercise qualifies as a qualified medical expense with an LMN. Food, supplements, and other wellness purchases qualify as medical expenses if they treat or prevent an illness, and a doctor substantiates the need. Your Truemed LMN satisfies all IRS requirements to make your wellness spend fully reimbursable.
 
-\
+
 **Are there fees associated with using Truemed's services?**
 
 The cost is included with your purchase, as long as you are shopping with a Truemed partner merchant.

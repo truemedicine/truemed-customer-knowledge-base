@@ -1,11 +1,3 @@
----
-title: "Truemed Dashboard_ Interpreting Transaction Status"---
-
-
-[**Truemed’s dashboard**](http://app.truemed.com/) displays unified statuses for both Payments and Qualifications customers to help you track the progress of each transaction. Below is an explanation of each status and how they appear across the Payments and Qualifications tabs.
-
----
-
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/ff80f81f-d340-4e9d-bd93-b2274811d7a7.png)## **Dashboard Payment Status**
 
 There are simple, unified statuses across both the Payments and Qualifications tabs:

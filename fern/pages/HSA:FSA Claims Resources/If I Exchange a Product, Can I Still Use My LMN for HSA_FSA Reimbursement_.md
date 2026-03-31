@@ -1,4 +1,4 @@
----
+***
 title: "If I Exchange a Product, Can I Still Use My LMN for HSA_FSA Reimbursement_"---
 
 
@@ -6,7 +6,7 @@ If you used an HSA or FSA to get reimbursed for a product and later need to exch
 
 ### Can I use the same LMN for the exchanged item?
 
-**Usually, yes—if the new product serves a similar purpose as the original one.**\
+**Usually, yes—if the new product serves a similar purpose as the original one.**
 Your LMN is valid for one year and can be used for products that support the same health need it was originally written for.
 
 **However, if the product you're exchanging for is different in purpose from the original**, you'll need to complete a new eligibility survey so your provider can determine whether a new LMN is needed.
@@ -17,11 +17,11 @@ Your LMN is valid for one year and can be used for products that support the sam
 
 That depends on how the exchange was handled:
 
-- **If the product you received in the exchange cost the same:**\
+- **If the product you received in the exchange cost the same:**
   You can usually submit your updated receipt along with your original LMN—no need to restart the process.
-- **If the new product costs more:**\
+- **If the new product costs more:**
   Your HSA/FSA provider may ask for documentation to show that the higher-priced item is not just an “upgrade” but still medically necessary. You may also need to submit a short explanation of the exchange.
-- **If the new product costs less and you were already reimbursed:**\
+- **If the new product costs less and you were already reimbursed:**
   You may need to return the difference to your HSA/FSA account or report it as a non-qualified expense during tax time. Check with your HSA/FSA provider for instructions.
 
 ### What documentation should I keep?

@@ -1,10 +1,10 @@
----
+***
 title: "Winback Campaigns"---
 
 
 For lapsed customers, highlighting new ways to save can rekindle interest. Including Truemed messaging in your winback emails reminds former customers that your products may be HSA/FSA eligible.
 
-## \
+## 
 **Sample Winback Campaign Email Copy**
 
 **One-Time Purchases:**
@@ -23,7 +23,7 @@ For lapsed customers, highlighting new ways to save can rekindle interest. Inclu
 >
 > \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](http://truemed.com/disclosures)
 
-### \
+### 
 **Compliance Reminder**
 
 Following Truemed’s compliance guidelines protects customers from misleading claims and keeps your brand aligned with IRS/HSA/FSA rules, reducing the risk of ad rejections or takedowns. It also preserves trust and lowers the chance of disputes or chargebacks by setting accurate expectations about eligibility and savings.

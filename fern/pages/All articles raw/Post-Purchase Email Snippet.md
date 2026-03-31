@@ -1,4 +1,4 @@
----
+***
 title: "Post-Purchase Email Snippet"---
 
 
@@ -23,13 +23,13 @@ For example, an email might look like this:
 2. On your Shopify admin panel, navigate to `Settings` → Notifications → Customer Notifications → Order Confirmations → Click edit code → Paste the following code snippet according to where you'd like it to appear in your email template:
 
 ```
-{{% assign skus = "" %}}
-{{% for line_item in order.line_items %}}
-  {{% assign skus = skus | append: line_item.sku %}}
-  {{% unless forloop.last %}}
-    {{% assign skus = skus | append: "," %}}
-  {{% endunless %}}
-{{% endfor %}}
+&#123;&#123;% assign skus = "" %&#125;&#125;
+&#123;&#123;% for line_item in order.line_items %&#125;&#125;
+  &#123;&#123;% assign skus = skus | append: line_item.sku %&#125;&#125;
+  &#123;&#123;% unless forloop.last %&#125;&#125;
+    &#123;&#123;% assign skus = skus | append: "," %&#125;&#125;
+  &#123;&#123;% endunless %&#125;&#125;
+&#123;&#123;% endfor %&#125;&#125;
 
 This order might be eligible for HSA/FSA reimbursement. Qualify Here
 

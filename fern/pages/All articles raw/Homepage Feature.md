@@ -1,4 +1,4 @@
----
+***
 title: "Homepage Feature"---
 
 
@@ -34,7 +34,7 @@ Need more guidance on what you can say about HSA/FSA? Review the [**Compliant HS
 
 ## **Why It Matters**
 
-![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/4dd3513c-5d6e-4a77-9eb4-6bea38207403.png)Brands that promote HSA/FSA savings directly on their homepage see real results.\
+![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/4dd3513c-5d6e-4a77-9eb4-6bea38207403.png)Brands that promote HSA/FSA savings directly on their homepage see real results.
 **Example: Amazfit**
 
 - 📈 **32% increase in average order value**

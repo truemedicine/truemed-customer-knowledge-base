@@ -1,8 +1,8 @@
----
+***
 title: "Step 2_ Checking Out with Truemed"---
 
 
-### **\
+### **
 What does checking out with Truemed look like?**
 
 Once an item has been added to cart, customers proceed to checkout, where Truemed will populate as a payment option (See below)

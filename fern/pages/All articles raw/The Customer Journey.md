@@ -1,19 +1,3 @@
----
-title: "The Customer Journey"---
-
-
-See each step that your customers will take to use their HSA/FSA with your business.
-
-After reviewing, be sure to check out:
-
-- [**FAQs: Questions your customers might ask**](https://support.truemed.com/en/articles/3488833)
-
-- [**Marketing Playbook: A Successful Launch**](https://support.truemed.com/en/articles/3214145)
-
-- [**Staff Resources: Introduction to Truemed**](https://support.truemed.com/en/articles/3214529)
-
----
-
 ## **Step 1: Awareness**
 
 Your customers will love the chance to save an average of 30% on their purchases using pre-tax HSA/FSA funds!

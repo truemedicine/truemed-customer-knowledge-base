@@ -1,4 +1,4 @@
----
+***
 title: "How often are we paid via Stripe_"---
 
 

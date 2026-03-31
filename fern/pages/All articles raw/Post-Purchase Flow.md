@@ -1,4 +1,4 @@
----
+***
 title: "Post-Purchase Flow"---
 
 
@@ -14,7 +14,7 @@ Post-purchase emails are a great moment to confirm next steps, educate on reimbu
 >
 > \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](http://truemed.com/disclosures)
 
-### \
+### 
 **Compliance Reminder**
 
 Following Truemed’s compliance guidelines protects customers from misleading claims and keeps your brand aligned with IRS/HSA/FSA rules, reducing the risk of ad rejections or takedowns. It also preserves trust and lowers the chance of disputes or chargebacks by setting accurate expectations about eligibility and savings.

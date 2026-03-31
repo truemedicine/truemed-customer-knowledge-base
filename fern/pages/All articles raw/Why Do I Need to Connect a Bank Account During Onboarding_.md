@@ -1,4 +1,4 @@
----
+***
 title: "Why Do I Need to Connect a Bank Account During Onboarding_"---
 
 

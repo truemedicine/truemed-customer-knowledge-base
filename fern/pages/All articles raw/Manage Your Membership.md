@@ -1,11 +1,3 @@
----
-title: "Manage Your Membership"---
-
-
-As a valued Truemed merchant, managing your subscription is simple and straightforward. Below, you will find all the necessary details about your subscription and how to make changes if needed.
-
----
-
 ### Subscription Details
 
 - **Annual Fee**: $500

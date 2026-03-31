@@ -1,11 +1,3 @@
----
-title: "Inserting HSA_FSA Messaging into Existing Email Flows"---
-
-
-Adding HSA/FSA messaging to your existing email flows is one of the most effective ways to drive awareness, increase conversion, and improve retention—without relying on discounting.
-
----
-
 ## **The Value of Including HSA/FSA in Lifecycle Flows**
 
 By adding HSA/FSA messaging to your automated email flows, you’re:
@@ -20,7 +12,7 @@ By adding HSA/FSA messaging to your automated email flows, you’re:
 
 ### 1. **Welcome Flow / Welcome Packet**
 
-**When to send**: 1–2 emails in the onboarding sequence\
+**When to send**: 1–2 emails in the onboarding sequence
 **Why**: New members are most engaged and open to learning about ways to maximize value.
 
 **Subject Line Ideas**:
@@ -39,27 +31,23 @@ By adding HSA/FSA messaging to your automated email flows, you’re:
 > 👉 See if you qualify now
 >
 > \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](https://www.truemed.com/disclosures). 
-
----
-
+***
 ### 2. **Email Footers (All Flows)**
 
-**When to use**: Add to the footer of all automated and manual campaigns\
+**When to use**: Add to the footer of all automated and manual campaigns
 **Why**: Maintains passive, consistent awareness throughout the customer lifecycle.
 
 **Sample Footer**:
 
-> Did you know you may be eligible to reimburse your \[Brand\] membership with HSA/FSA funds?\
-> \
+> Did you know you may be eligible to reimburse your \[Brand\] membership with HSA/FSA funds?
+> 
 > See if you qualify and save an average of 30%
 >
 > Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](https://docs.google.com/document/d/19Cxl1ZbXTX25_44rZ8Mbj3nKfsuzmHVOXm7uYuVKewk/edit?tab=t.0#heading=h.8fnbt71wtlyg)
-
----
-
+***
 ### 3. **Churned Customer Win-Back Emails**
 
-**When to send**: 1–3 emails in your reactivation series\
+**When to send**: 1–3 emails in your reactivation series
 **Why**: Pricing is often a cancellation driver—showing how customers may be able to save on their membership can reignite interest.
 
 **Subject Line Ideas**:
@@ -76,12 +64,10 @@ By adding HSA/FSA messaging to your automated email flows, you’re:
 > It only takes a few minutes to see if you qualify.
 >
 > Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](https://docs.google.com/document/d/19Cxl1ZbXTX25_44rZ8Mbj3nKfsuzmHVOXm7uYuVKewk/edit?tab=t.0#heading=h.8fnbt71wtlyg)
-
----
-
+***
 ### 4. **Cancellation Flow Emails**
 
-**When to insert**: Final email or on post-cancel confirmation page\
+**When to insert**: Final email or on post-cancel confirmation page
 **Why**: Helps reduce churn by addressing price as a barrier and introducing HSA/FSA as a solution.
 
 **Subject Line Ideas**:
@@ -100,12 +86,10 @@ By adding HSA/FSA messaging to your automated email flows, you’re:
 > See if you qualify to save
 >
 > Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](https://docs.google.com/document/d/19Cxl1ZbXTX25_44rZ8Mbj3nKfsuzmHVOXm7uYuVKewk/edit?tab=t.0#heading=h.8fnbt71wtlyg)
-
----
-
+***
 ### 5. **Existing Member Promotions**
 
-**When to send**: Quarterly reminder emails (aligned with seasonal themes like New Year, Tax Season, Open Enrollment, Year-End Deadlines)\
+**When to send**: Quarterly reminder emails (aligned with seasonal themes like New Year, Tax Season, Open Enrollment, Year-End Deadlines)
 **Why**: Reinforces awareness and drives ongoing engagement and retention.
 
 **Subject Line Ideas**:
@@ -123,16 +107,12 @@ By adding HSA/FSA messaging to your automated email flows, you’re:
 > The process is quick and easy—just answer a few health questions, pay a $20 fee, and if eligible, you’ll receive a Letter of Medical Necessity valid for 12 months.
 >
 > Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](https://docs.google.com/document/d/19Cxl1ZbXTX25_44rZ8Mbj3nKfsuzmHVOXm7uYuVKewk/edit?tab=t.0#heading=h.8fnbt71wtlyg)
-
----
-
+***
 ### Tips:
 
 - Always link to your [**HSA/FSA landing page**](/en/articles/4607553) to explain the full process.
 - Consider using a **QR code** in emails or physical collateral for dual-channel visibility.
-
----
-
+***
 ### 
 
 ### **Compliance Reminder**

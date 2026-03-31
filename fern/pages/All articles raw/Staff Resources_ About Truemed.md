@@ -1,11 +1,3 @@
----
-title: "Staff Resources_ About Truemed"---
-
-
-Prior to launch, brief your team internally about Truemed. Once all key stakeholders have read through this guide, you are all set to begin your Truemed rollout.
-
----
-
 ## **An introduction to Truemed**
 
 ### **What is Truemed?**
@@ -27,9 +19,7 @@ Truemed is backed by best-in-class investors, including functional medicine pion
 - Calley on [**Mark Hyman**](https://d4jfjz04.na1.hs-sales-engage.com/Ctc/OT+23284/d4JFJZ04/JkM2-6qcW6N1vHY6lZ3pqN2JLF7h-7chWW82gRSZ18xDZXW44M7St3LSq5CW3XmJwg3PPV9GW6qD-V-91LfQ_N57-xZ8sSn8zW4RpF6d6CpY-CW8hXB5K96t_M8W3NNQkv8cJTTqVnPdK_2CZlZxW2R4ptn99z6myW62YPr54vD7cYW2Vyv8n1wBLLvW8l2dXC89x00GW4p1r8M2M_nQHW7jVTth5p4b_pW3Z6KDH2W3MKCW3mP2TW5sgYJBVzYZ6t1z3bnxW9l1f0r1MHrNcN8864vS3cKt7VFTyVh17f_LJdW-W1P04)
 
 - Justin on [**Gary Brecka**](https://www.youtube.com/watch?v=LBmUk8kD1p8)
-
----
-
+***
 ### **How will Truemed increase my AOV, retention, and conversion rates?**
 
 Because HSA/FSAs use pre-tax money, your customer is getting more purchasing power for their dollars. Since they are using pre-tax dollars, your customer is essentially saving a percentage equal to their tax rate.

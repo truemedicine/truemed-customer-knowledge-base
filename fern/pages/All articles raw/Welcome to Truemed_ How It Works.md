@@ -1,21 +1,3 @@
----
-title: "Welcome to Truemed_ How It Works"---
-
-
-Start here to learn about your Truemed partnership and how to help customers spend their HSA/FSA dollars with your business.
-
-After reviewing, be sure to check out:
-
-- [**The Marketing Playbook**](https://support.truemed.com/en/articles/3214145)
-
-- [**FAQs: Questions your customers might ask**](https://support.truemed.com/en/articles/3488833)
-
-- [**The Customer Journey**](https://support.truemed.com/en/articles/3488769)
-
-- [**Staff Resources: Introduction to Truemed**](https://support.truemed.com/en/articles/3214529)
-
----
-
 ## **Welcome to Truemed!**
 
 We’re thrilled to be partnering with you all and are excited to be offering your qualified customer base the ability to spend with their Health Savings Accounts (HSAs) and Flexible Spending Accounts (FSAs).

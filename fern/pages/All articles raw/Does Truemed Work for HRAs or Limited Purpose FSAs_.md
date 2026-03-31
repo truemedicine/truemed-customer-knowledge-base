@@ -1,12 +1,3 @@
----
-title: "Does Truemed Work for HRAs or Limited Purpose FSAs_"---
-
-
-**Overview:**\
-Health Reimbursement Arrangements (HRAs) and Limited Purpose FSAs have different reimbursement requirements compared to traditional HSAs and FSAs. Truemed currently supports the reimbursement process primarily for traditional HSA/FSA accounts. Please review your specific plan details to determine which categories your account covers.
-
----
-
 ## Understanding HRAs and Limited Purpose FSAs
 
 - **Health Reimbursement Arrangements (HRAs):**
@@ -16,9 +7,7 @@ Health Reimbursement Arrangements (HRAs) and Limited Purpose FSAs have different
 - **Limited Purpose FSAs:**
   - These accounts are generally restricted to dental and vision expenses or may cover certain deductible expenses.
   - Like HRAs, Limited Purpose FSAs are not intended to cover the full spectrum of medical expenses that traditional FSAs support.
-
----
-
+***
 ## Truemed's Reimbursement Process
 
 - **Traditional HSA/FSA Accounts:**
@@ -26,9 +15,7 @@ Health Reimbursement Arrangements (HRAs) and Limited Purpose FSAs have different
 - **For HRAs and Limited Purpose FSAs:**
   - If your HRA or Limited Purpose FSA has no category restrictions, we can often support the reimbursement process using similar steps as those for traditional HSA/FSA accounts.
   - However, if your plan is limited to specific expense categories (e.g., only dental and vision), you may not be able to use Truemed for other types of health care reimbursements.
-
----
-
+***
 ## What You Should Do
 
 - **Review Your Plan Details:**
@@ -38,7 +25,5 @@ Health Reimbursement Arrangements (HRAs) and Limited Purpose FSAs have different
   - If there are no category restrictions, you may be able to follow the same reimbursement process as traditional HSA/FSA accounts.
 - **Contact Support:**
   - If you’re unsure whether your HRA or Limited Purpose FSA qualifies for Truemed’s reimbursement process, please contact support@truemed.com We’re here to help clarify any questions you have regarding your account and ensure you maximize your eligible benefits.
-
----
-
+***
 By understanding the differences between HRAs, Limited Purpose FSAs, and traditional HSA/FSAs, you can better determine how to utilize Truemed's services for your reimbursement needs. If your plan does not restrict reimbursement categories, you may be able to use Truemed just as you would with a traditional HSA/FSA.

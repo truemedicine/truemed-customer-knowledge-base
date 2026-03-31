@@ -1,4 +1,4 @@
----
+***
 title: "I have linked our bank account but still need to complete some of the other steps. Is this enough to install the app_"---
 
 

@@ -1,11 +1,3 @@
----
-title: "Purpose & Promotional Principles"---
-
-
-Best practices for spreading the word about your partnership with Truemed.
-
----
-
 ### **Purpose**
 
 Unlock the full potential of offering HSA/FSA payment options by using email to drive awareness and engagement throughout the buyer's journey.

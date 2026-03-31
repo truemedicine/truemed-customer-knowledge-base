@@ -1,11 +1,3 @@
----
-title: "Step 1_ Welcome to Truemed"---
-
-
-Prior to launch, brief your team internally about Truemed. Once all key stakeholders have read through this guide, you are all set to begin your Truemed rollout.
-
----
-
 ## **An introduction to Truemed**
 
 ### **What is Truemed?**
@@ -21,9 +13,7 @@ Truemed is backed by best-in-class investors, including functional medicine pion
 - Justin on[ **Invest Like the Best**](https://d4jfjz04.na1.hs-sales-engage.com/Ctc/OT+23284/d4JFJZ04/Jl22-6qcW7lCdLW6lZ3mHMqvc64XSm5sN97j30fTlQMHW9gCQVF96xc05W7sxRP51YDpFGW3NBMVP3fZL0cW1M5qHf7pYLHZW7p0yqD3L_QxkW2GmP0w3G0b-LN269GMQX5yqcW7FQM9G78w5BZW6bw94x7j4b8LW5JJ4Gg81fzXLVWrXy039cYcZW8LzS802fyYRXW2vpt0F8_qk7BW8xzx4K8DM3V2N83KpCFgTTL7W71K20l7FylYtW2YRHhl8-2xm3MYplhBTlB_4W3mjLch54yL4KW85CslM7NbVKcW4b5rkt2V4vLkW4kDFcc7kjqWHf3bxhTj04)
 
 - Justin on [**Gary Brecka**](https://www.youtube.com/watch?v=LBmUk8kD1p8)
-
----
-
+***
 ### **How will Truemed increase my AOV, retention, and conversion rates?**
 
 Because HSA/FSAs use pre-tax money, your customer is getting more purchasing power for their dollars. Since they are using pre-tax dollars, your customer is essentially saving a percentage equal to their tax rate.
@@ -49,23 +39,17 @@ These savings give customers more buying power, makes them less likely to churn,
 - [**Aletha Health**](https://d4jfjz04.na1.hs-sales-engage.com/Ctc/OT+23284/d4JFJZ04/Jk84YGXpW5BWr2F6lZ3mzW1hhLZZ8D0lfBW1J2ydw32hd8SW5WxdMm55fJCbW7KSTDP97GV00W3Pz6lR5h77Z_VnlyFx1dPSSNV1Mh7p1zzch8W7SmqM95TKjt0N1_PMV9WDd5qVPQKF1504v8HW8V13jy6gY4JfN3PvyH4LBlf7W39jbCG6wHKV0N6jrsgZ_ltKyN5sGTZ0rlX0GW7RRly-700PFzW8tPLW11KW4LGW1VZ1zl6NvKx6W2RvDvH1LXYFKW80H-xj5RtfzYN1-kKbJnc0SzW9kswF61VN2J0W1MJvQ76T7RzJVCSH8Y3kd_FVW1fNYbb6lrBqBW32XYJ44wdysKW5BwQ8l9h02_PW28B98L6M37WCW3ZVJKM7cBybTW2GX1yH8xgzd5W4Ps0VC8FGqbLW5s5pCb81qPRTW4px-vw55mH-YW4qwV7v8l_8SLf1l1RsM04) - 13% of total orders
 
 - [**Higher DOSE**](https://d4jfjz04.na1.hs-sales-engage.com/Ctc/OT+23284/d4JFJZ04/JkM2-6qcW6N1vHY6lZ3p0N1h18gc6W6PwW1bLZyS1l-fLGVcjMg-7WQ1hlW2dkDVG7L0lkdW1K31QD3K0tGXW2q0Qj63tR4m0W4pWwLj7xQ_DFW5ysng1913glbW2YW6vs4MQPNQW3690NQ1p3G4qW4CXNn-4HcPpVVLKvKF7lGp_gW4q4KGy9kh688W6kgh134MK4PdW5nM73F103Q1nW4kzNRn81-JXJW7Y7BYF6lp37kVn2dmg4VTW0pW6LnWP07gBtz0W6K-7Ht37Zw9XVVBgWv5k8b1gW6cPnjP7qc6R6f2jQsfv04) - 15% of incremental sales
-
----
-
+***
 ### **What does Truemed look like in action?**
 
 [Shopify integration flow video walk through](https://support.truemed.com/en/articles/2591425)
 
 [Reimbursement flow video walk through](https://support.truemed.com/en/articles/2591489)
-
----
-
+***
 # **FAQs**
 
 These are common questions that we typically receive prior to a new partner launch. Review with your team, then head over to [**Marketing Resources**](https://support.truemed.com/en/categories/552769) to plan your Truemed debut.
-
----
-
+***
 ## **What is an LMN?**
 
 A **Letter of Medical Necessity (LMN)** is a document written by a qualified healthcare provider that explains why a specific product or service is medically necessary for a patient’s health condition.
@@ -97,9 +81,7 @@ If you do not currently have an HSA/FSA account, we recommend reaching out to yo
 - **Unsure if you are enrolled in an HSA/FSA account?**
 
 In this case, we recommend reaching out to your employee benefits coordinator. They will be able to assist you with any questions about the benefits you selected during open enrollment. They can also alert you of upcoming opportunities to enroll in an HSA/FSA account.
-
----
-
+***
 ## **Finance and Accounting**
 
 ### **How is Sales Tax handled for HSA/FSA payments?**
@@ -109,9 +91,7 @@ Sales tax is still charged and eligible to be paid by FSAs and HSAs. More inform
 ### **Stripe order reconciliation**
 
 Truemed pays out order totals, less our fees, on a rolling 2-day basis to the bank account you link via Stripe. Depending on order volume, the payouts are often batched. Your team can use the Truemed Dashboard at [app.truemed.com](http://app.truemed.com) to reconcile individual orders with their payout batches via the Download Report button on the Orders tab. To request additional accounts with access to your dashboard, reach out to [merchants@truemed.com](mailto:merchants@truemed.com).
-
----
-
+***
 ## **Truemed Checkout Process**
 
 ### **Can clients get reimbursed if they use another payment method?**
@@ -121,9 +101,7 @@ Yes. If customers want to use a non-HSA/FSA card and get reimbursed, they still 
 ### **Does the email used at checkout have to match the email associated with their HSA/FSA account?**
 
 No, but the customers name should match between the order, their Truemed qualification survey, and their HSA/FSA account.
-
----
-
+***
 ## **Truemed Evaluation Form**
 
 ### **Should users answer for every condition that applies to them or only the condition that the product they wish to purchase is meant to help with?**
@@ -132,4 +110,4 @@ Our survey prompts users to respond with *all* conditions they have been diagnos
 
 ### **What is the Truemed Privacy Policy?**
 
-Please review our [Privacy Policy](https://www.truemed.com/privacy).Please review our [Privacy Policy](https://www.truemed.com/privacy). 
+Please review our [Privacy Policy](https://www.truemed.com/privacy).Please review our [Privacy Policy](https://www.truemed.com/privacy).

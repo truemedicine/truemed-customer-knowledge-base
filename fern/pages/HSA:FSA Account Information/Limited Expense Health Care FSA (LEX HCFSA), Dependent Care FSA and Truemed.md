@@ -1,12 +1,3 @@
----
-title: "Limited Expense Health Care FSA (LEX HCFSA), Dependent Care FSA and Truemed"---
-
-
-**Overview:**\
-Products and services purchased via Truemed are designed to be reimbursed through your regular Health Care FSA. It’s important to understand the distinctions between different FSA types to ensure you’re using the correct funds for your payments.
-
----
-
 ## Which FSA Funds Can You Use?
 
 - **Health Care FSA:**
@@ -20,9 +11,7 @@ Products and services purchased via Truemed are designed to be reimbursed throug
   - **Not Eligible via Truemed:**
     - Dependent Care FSAs are earmarked exclusively for expenses related to the care of dependents (e.g., daycare, preschool, nannies).
     - They cannot be used for health care services or products provided via Truemed.
-
----
-
+***
 ## Summary
 
 - **Use Your Health Care FSA:**

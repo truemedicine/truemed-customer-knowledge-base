@@ -1,4 +1,4 @@
----
+***
 title: "Browse Abandonment"---
 
 
@@ -22,7 +22,7 @@ A gentle reminder that the product they viewed may be HSA/FSA eligible could be 
 >
 > \*Truemed is for qualified customers. HSA/FSA tax savings vary. Learn more at [truemed.com/disclosures](http://truemed.com/disclosures)
 
-### \
+### 
 **Compliance Reminder**
 
 Following Truemed’s compliance guidelines protects customers from misleading claims and keeps your brand aligned with IRS/HSA/FSA rules, reducing the risk of ad rejections or takedowns. It also preserves trust and lowers the chance of disputes or chargebacks by setting accurate expectations about eligibility and savings.

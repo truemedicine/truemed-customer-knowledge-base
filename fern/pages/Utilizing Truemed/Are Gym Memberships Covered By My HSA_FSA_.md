@@ -1,12 +1,3 @@
----
-title: "Are Gym Memberships Covered By My HSA_FSA_"---
-
-
-**Short Answer:**\
-Gym memberships **can** be covered by your HSA or FSA **only** if you have a specific medical condition and a physician (or licensed provider) has recommended regular exercise as part of a treatment plan. This means you’ll need a valid Letter of Medical Necessity (LMN) that meets IRS guidelines.
-
----
-
 ## IRS Guidelines at a Glance
 
 From the [IRS FAQs on Nutrition, Wellness, and General Health Expenses](https://www.irs.gov/individuals/frequently-asked-questions-about-medical-expenses-related-to-nutrition-wellness-and-general-health):
@@ -17,9 +8,7 @@ From the [IRS FAQs on Nutrition, Wellness, and General Health Expenses](https://
   - Treating a specific disease (e.g., obesity, hypertension, heart disease).
 
 If the membership is for general fitness or overall wellness, it typically **does not** qualify as a medical expense under IRS rules.
-
----
-
+***
 ## How a Letter of Medical Necessity (LMN) Helps
 
 An LMN is a document signed by a licensed medical professional stating that your gym membership is **medically necessary** for managing or treating a diagnosed condition. Examples include:
@@ -31,9 +20,7 @@ An LMN is a document signed by a licensed medical professional stating that your
 - **Injury Rehabilitation**
 
 To be valid, your LMN must clearly connect your diagnosis with the benefits of your gym membership.
-
----
-
+***
 ## Steps to Get Your Gym Membership Covered
 
 1. **Talk to Your PCP or Take Truemed’s Clinical Intake Form**
@@ -49,25 +36,21 @@ To be valid, your LMN must clearly connect your diagnosis with the benefits of y
 4. **Submit for Reimbursement** (if applicable)
    - If your plan requires you to file claims, submit the membership receipt and LMN for documentation.
    - Note that the gym membership must be recommended as part of treating your diagnosed condition.
-
----
-
+***
 ## FAQs
 
-**1. What if my gym membership is just for staying in shape?**\
+**1. What if my gym membership is just for staying in shape?**
 Per IRS guidelines, a gym membership for general health or wellness is **not** an eligible expense. A specific medical diagnosis with a prescribed exercise plan is required.
 
-**2. How often do I need to renew my LMN?**\
+**2. How often do I need to renew my LMN?**
 Most LMNs remain valid for **12 months** from the date of issue. If you continue using the gym to manage your condition, you’ll likely need to renew your LMN each year.
 
-**3. Can personal training or specialized classes be covered?**\
+**3. Can personal training or specialized classes be covered?**
 Possibly—if they are specifically recommended to treat a condition. Keep documentation in case your administrator asks for detailed proof of medical necessity.
 
-**4. My health plan wants more details—what do I do?**\
+**4. My health plan wants more details—what do I do?**
 Contact Truemed Support or your healthcare provider for a more detailed LMN. Additional medical details may help strengthen your claim.
-
----
-
+***
 ### Still Have Questions?
 
 If you’re unsure whether you qualify for gym membership coverage or need assistance obtaining or updating your LMN, please contact Truemed Support at support@truemed.com. We’re here to help you maximize your HSA/FSA benefits in a way that aligns with IRS rules and medical best practices.

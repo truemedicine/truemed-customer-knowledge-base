@@ -1,8 +1,8 @@
----
+***
 title: "Product Page Widget"---
 
 
-### **\
+### **
 Overview**
 
 This widget educates customers about HSA/FSA eligibility, and indicates that they might qualify for HSA/FSA spending or reimbursement with their purchase.
@@ -73,9 +73,9 @@ That's it! Reach out with any technical questions to [merchants@truemed.com](mai
 
    ```
 
-.truemed-instructions-open {{
+.truemed-instructions-open &#123;&#123;
     color: #7a7a7a !important;
-  }}
+  &#125;&#125;
 
 ```
 
@@ -83,9 +83,9 @@ That's it! Reach out with any technical questions to [merchants@truemed.com](mai
 
    ```
 
-  .truemed-logo-img {{
+  .truemed-logo-img &#123;&#123;
     height: 13px !important;
-  }}
+  &#125;&#125;
 
 ```
 
@@ -93,9 +93,9 @@ That's it! Reach out with any technical questions to [merchants@truemed.com](mai
 
    ```
 
-.truemed-logo-img {{
+.truemed-logo-img &#123;&#123;
     margin: 2px 0 0 3px !important;
-  }}
+  &#125;&#125;
 
 ```
 

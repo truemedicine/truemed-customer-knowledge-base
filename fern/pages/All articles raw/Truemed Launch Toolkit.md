@@ -1,11 +1,3 @@
----
-title: "Truemed Launch Toolkit"---
-
-
-Follow this step-by-step guide to optimizing your Truemed partnership
-
----
-
 ![](https://cdn.applied.guide/media/886214b8-01bd-4c9d-8591-1d6ccbcc8c0e/c5b4814d-fecd-4bf9-8fdd-4a3e6747f698.png)## **Website Optimization:**
 
 ☐ **Create an [HSA/FSA Eligible Product Collection](https://support.truemed.com/en/articles/5809153)**
