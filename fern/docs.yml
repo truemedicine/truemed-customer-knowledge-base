@@ -4,145 +4,96 @@ instances:
 title: Truemed Customer Help Center
 
 navigation:
-    - section: "HSA:FSA Account Information"
-      contents:
-        - page: "Do Letters of Medical Necessity (LMNs) Expire_"
-          path: "./pages/HSA:FSA Account Information/Do Letters of Medical Necessity (LMNs) Expire_.md"
-        - page: "Does Truemed Work for HRAs or Limited Purpose FSAs_"
-          path: "./pages/HSA:FSA Account Information/Does Truemed Work for HRAs or Limited Purpose FSAs_.md"
-        - page: "Does Truemed Work for Medicaid_Medicare_"
-          path: "./pages/HSA:FSA Account Information/Does Truemed Work for Medicaid_Medicare_.md"
-        - page: "Limited Expense Health Care FSA (LEX HCFSA), Dependent Care FSA and Truemed"
-          path: "./pages/HSA:FSA Account Information/Limited Expense Health Care FSA (LEX HCFSA), Dependent Care FSA and Truemed.md"
-        - page: "Truemed Availability_ USA"
-          path: "./pages/HSA:FSA Account Information/Truemed Availability_ USA.md"
-        - page: "Understanding Your HSA_FSA"
-          path: "./pages/HSA:FSA Account Information/Understanding Your HSA_FSA.md"
-        - page: "What Happens If My HSA_FSA Refund Was Sent to a Closed Account_"
-          path: "./pages/HSA:FSA Account Information/What Happens If My HSA_FSA Refund Was Sent to a Closed Account_.md"
-        - page: "What is an HSA_FSA Account_"
-          path: "./pages/HSA:FSA Account Information/What is an HSA_FSA Account_.md"
-    - section: "HSA:FSA Claims Resources"
-      contents:
-        - page: "Are there any administrators that do not accept updated LMNs or documentation after an initial denial_"
-          path: "./pages/HSA:FSA Claims Resources/Are there any administrators that do not accept updated LMNs or documentation after an initial denial_.md"
-        - page: "Basic Quick Guide_ Submitting HSA_FSA Claims through Basic"
-          path: "./pages/HSA:FSA Claims Resources/Basic Quick Guide_ Submitting HSA_FSA Claims through Basic.md"
-        - page: "Benefit Allocation Systems (BAS) Quick Guide_ Submitting HSA_FSA Claims through BAS"
-          path: "./pages/HSA:FSA Claims Resources/Benefit Allocation Systems (BAS) Quick Guide_ Submitting HSA_FSA Claims through BAS.md"
-        - page: "Can I Resubmit or Appeal My HSA_FSA Claim More Than Once_"
-          path: "./pages/HSA:FSA Claims Resources/Can I Resubmit or Appeal My HSA_FSA Claim More Than Once_.md"
-        - page: "Common Reasons for HSA_FSA Claim Denials- and How Truemed Helps"
-          path: "./pages/HSA:FSA Claims Resources/Common Reasons for HSA_FSA Claim Denials- and How Truemed Helps.md"
-        - page: "Do HSA_FSA Reimbursement Claims Require a Tax ID_TIN_"
-          path: "./pages/HSA:FSA Claims Resources/Do HSA_FSA Reimbursement Claims Require a Tax ID_TIN_.md"
-        - page: "Does a Letter of Medical Necessity Work for Past Purchases"
-          path: "./pages/HSA:FSA Claims Resources/Does a Letter of Medical Necessity Work for Past Purchases.md"
-        - page: "Employee Benefits Corporation (EBC) Quick Guide_ Submitting HSA_FSA Claims through EBC"
-          path: "./pages/HSA:FSA Claims Resources/Employee Benefits Corporation (EBC) Quick Guide_ Submitting HSA_FSA Claims through EBC.md"
-        - page: "Gusto Quick Guide_ Submitting HSA_FSA Claims through Gusto"
-          path: "./pages/HSA:FSA Claims Resources/Gusto Quick Guide_ Submitting HSA_FSA Claims through Gusto.md"
-        - page: "How do I handle HSA_FSA reimbursement if my purchase includes both eligible and ineligible items_"
-          path: "./pages/HSA:FSA Claims Resources/How do I handle HSA_FSA reimbursement if my purchase includes both eligible and ineligible items_.md"
-        - page: "How to Submit for HSA_FSA Reimbursement"
-          path: "./pages/HSA:FSA Claims Resources/How to Submit for HSA_FSA Reimbursement.md"
-        - page: "HSABank Quick Guide_ Submitting HSA_FSA Claims through HSABank"
-          path: "./pages/HSA:FSA Claims Resources/HSABank Quick Guide_ Submitting HSA_FSA Claims through HSABank.md"
-        - page: "If I Exchange a Product, Can I Still Use My LMN for HSA_FSA Reimbursement_"
-          path: "./pages/HSA:FSA Claims Resources/If I Exchange a Product, Can I Still Use My LMN for HSA_FSA Reimbursement_.md"
-        - page: "JustWorks Quick Guide_ Submitting HSA_FSA Claims through JustWorks"
-          path: "./pages/HSA:FSA Claims Resources/JustWorks Quick Guide_ Submitting HSA_FSA Claims through JustWorks.md"
-        - page: "My Reimbursement Claim Was Denied... Now What_"
-          path: "./pages/HSA:FSA Claims Resources/My Reimbursement Claim Was Denied... Now What_.md"
-        - page: "Navia Quick Guide_ Submitting HSA_FSA Claims through Navia"
-          path: "./pages/HSA:FSA Claims Resources/Navia Quick Guide_ Submitting HSA_FSA Claims through Navia.md"
-        - page: "Need to Change Your HSA_FSA Administrator_ We Can Help"
-          path: "./pages/HSA:FSA Claims Resources/Need to Change Your HSA_FSA Administrator_ We Can Help.md"
-        - page: "Optum Quick Guide_ Submitting HSA_FSA Claims through Optum"
-          path: "./pages/HSA:FSA Claims Resources/Optum Quick Guide_ Submitting HSA_FSA Claims through Optum.md"
-        - page: "Payflex Quick Guide_ Submitting FSA Claims through Payflex"
-          path: "./pages/HSA:FSA Claims Resources/Payflex Quick Guide_ Submitting FSA Claims through Payflex.md"
-        - page: "Receipt Requirements for Reimbursement"
-          path: "./pages/HSA:FSA Claims Resources/Receipt Requirements for Reimbursement.md"
-        - page: "Typical Claim Resubmission and Appeal Timelines by Administrator"
-          path: "./pages/HSA:FSA Claims Resources/Typical Claim Resubmission and Appeal Timelines by Administrator.md"
-        - page: "WEX Quick Guide_ Submitting HSA_FSA Claims through WEX"
-          path: "./pages/HSA:FSA Claims Resources/WEX Quick Guide_ Submitting HSA_FSA Claims through WEX.md"
-        - page: "What Documentation Is Needed When My Administrator Requires a _Cost Comparison__"
-          path: "./pages/HSA:FSA Claims Resources/What Documentation Is Needed When My Administrator Requires a _Cost Comparison__.md"
-        - page: "What is a Letter of Medical Necessity_"
-          path: "./pages/HSA:FSA Claims Resources/What is a Letter of Medical Necessity_.md"
-    - section: "Preapproved (Hidden)"
-      contents:
-        - page: "Frequently Asked Questions (FAQ) - Preapproved"
-          path: "./pages/Preapproved (Hidden)/Frequently Asked Questions (FAQ) - Preapproved.md"
-        - page: "Truemed's Always Eligible Marketplace_  Support & Fulfillment"
-          path: "./pages/Preapproved (Hidden)/Truemed's Always Eligible Marketplace_  Support & Fulfillment.md"
-    - section: "Utilizing Truemed"
-      contents:
-        - page: "Accessing My Letter of Medical Necessity"
-          path: "./pages/Utilizing Truemed/Accessing My Letter of Medical Necessity.md"
-        - page: "Are Gym Memberships Covered By My HSA_FSA_"
-          path: "./pages/Utilizing Truemed/Are Gym Memberships Covered By My HSA_FSA_.md"
-        - page: "Can I Change My LMN After It’s Issued_"
-          path: "./pages/Utilizing Truemed/Can I Change My LMN After It’s Issued_.md"
-        - page: "Can I get an LMN before I purchase a product through Truemed_"
-          path: "./pages/Utilizing Truemed/Can I get an LMN before I purchase a product through Truemed_.md"
-        - page: "Can I Use My HSA_FSA Card on Subscriptions_"
-          path: "./pages/Utilizing Truemed/Can I Use My HSA_FSA Card on Subscriptions_.md"
-        - page: "Can I Use My HSA_FSA for Past Purchases_"
-          path: "./pages/Utilizing Truemed/Can I Use My HSA_FSA for Past Purchases_.md"
-        - page: "Can I Use My HSA_FSA for Supplements_"
-          path: "./pages/Utilizing Truemed/Can I Use My HSA_FSA for Supplements_.md"
-        - page: "Can I Use My HSA_FSA on a Snoo Rental_"
-          path: "./pages/Utilizing Truemed/Can I Use My HSA_FSA on a Snoo Rental_.md"
-        - page: "Can I Use My HSA_FSA to Purchase a Mattress_"
-          path: "./pages/Utilizing Truemed/Can I Use My HSA_FSA to Purchase a Mattress_.md"
-        - page: "Can I Use My LMN for a Purchase at a Different Merchant_"
-          path: "./pages/Utilizing Truemed/Can I Use My LMN for a Purchase at a Different Merchant_.md"
-        - page: "Can TrueMed Issue a Generic LMN for Services If the Merchant Is Not a Truemed Partner_"
-          path: "./pages/Utilizing Truemed/Can TrueMed Issue a Generic LMN for Services If the Merchant Is Not a Truemed Partner_.md"
-        - page: "Can Truemed Issue a Letter of Medical Necessity for Purchases Made Through Third-Party Financing or Installment Plans_"
-          path: "./pages/Utilizing Truemed/Can Truemed Issue a Letter of Medical Necessity for Purchases Made Through Third-Party Financing or Installment Plans_.md"
-        - page: "Do I Need a Doctor’s Prescription for My Purchase to be HSA_FSA Eligible_"
-          path: "./pages/Utilizing Truemed/Do I Need a Doctor’s Prescription for My Purchase to be HSA_FSA Eligible_.md"
-        - page: "Does Truemed Write LMNs for Minors_"
-          path: "./pages/Utilizing Truemed/Does Truemed Write LMNs for Minors_.md"
-        - page: "How Do I Access or Download My Letter of Medical Necessity (LMN)_"
-          path: "./pages/Utilizing Truemed/How Do I Access or Download My Letter of Medical Necessity (LMN)_.md"
-        - page: "How Do I Get a Refund for an LMN If I Had to Submit a New Intake Form_"
-          path: "./pages/Utilizing Truemed/How Do I Get a Refund for an LMN If I Had to Submit a New Intake Form_.md"
-        - page: "How Do I Save Using Truemed_"
-          path: "./pages/Utilizing Truemed/How Do I Save Using Truemed_.md"
-        - page: "How to Use Truemed"
-          path: "./pages/Utilizing Truemed/How to Use Truemed.md"
-        - page: "HSA _ FSA 101"
-          path: "./pages/Utilizing Truemed/HSA _ FSA 101.md"
-        - page: "Is Eight Sleep HSA_FSA Eligible_"
-          path: "./pages/Utilizing Truemed/Is Eight Sleep HSA_FSA Eligible_.md"
-        - page: "Is Peloton HSA_FSA Eligible_"
-          path: "./pages/Utilizing Truemed/Is Peloton HSA_FSA Eligible_.md"
-        - page: "Is Truemed Free for Consumers_"
-          path: "./pages/Utilizing Truemed/Is Truemed Free for Consumers_.md"
-        - page: "LMNs and Procedure Codes"
-          path: "./pages/Utilizing Truemed/LMNs and Procedure Codes.md"
-        - page: "Partial Eligibility"
-          path: "./pages/Utilizing Truemed/Partial Eligibility.md"
-        - page: "Product_Shipping Questions"
-          path: "./pages/Utilizing Truemed/Product_Shipping Questions.md"
-        - page: "Troubleshooting HSA_FSA Card Declines at Checkout"
-          path: "./pages/Utilizing Truemed/Troubleshooting HSA_FSA Card Declines at Checkout.md"
-        - page: "Using Multiple Cards (HSA_FSA + Credit_Debit) at Truemed Checkout"
-          path: "./pages/Utilizing Truemed/Using Multiple Cards (HSA_FSA + Credit_Debit) at Truemed Checkout.md"
-        - page: "What are the eligibility requirements for specific gym memberships not listed on the Truemed website_"
-          path: "./pages/Utilizing Truemed/What are the eligibility requirements for specific gym memberships not listed on the Truemed website_.md"
-        - page: "What If I Need a Recurring LMN for a Subscription or Ongoing Purchase_"
-          path: "./pages/Utilizing Truemed/What If I Need a Recurring LMN for a Subscription or Ongoing Purchase_.md"
-        - page: "What Is the Process for Adding a New Merchant or Studio to the Truemed Platform_"
-          path: "./pages/Utilizing Truemed/What Is the Process for Adding a New Merchant or Studio to the Truemed Platform_.md"
-        - page: "What is the typical processing time for HSA_FSA refunds_"
-          path: "./pages/Utilizing Truemed/What is the typical processing time for HSA_FSA refunds_.md"
-        - page: "Why Can't I Use My HSA_FSA Card for Some Merchants_"
-          path: "./pages/Utilizing Truemed/Why Can't I Use My HSA_FSA Card for Some Merchants_.md"
-        - page: "Why Was My Card Declined at Checkout- Insufficient funds"
-          path: "./pages/Utilizing Truemed/Why Was My Card Declined at Checkout- Insufficient funds.md"
+  - section: Truemed 101
+    contents:
+      - page: How Truemed Works
+        path: ./pages/truemed-101/how-truemed-works.mdx
+      - page: Top 10 FAQs
+        path: ./pages/truemed-101/top-10-faqs.mdx
+
+  - section: HSA/FSA & Account Types
+    contents:
+      - page: HSA/FSA 101
+        path: ./pages/hsa-fsa-account-types/hsa-fsa-101.mdx
+      - page: HRA & Other Account Types
+        path: ./pages/hsa-fsa-account-types/hra-and-other-account-types.mdx
+
+  - section: Eligibility & Qualification
+    contents:
+      - page: Eligibility & Qualification Overview
+        path: ./pages/eligibility-and-qualification/eligibility-and-qualification-overview.mdx
+      - page: Troubleshooting Your Qualification Survey
+        path: ./pages/eligibility-and-qualification/troubleshooting-your-qualification-survey.mdx
+
+  - section: Shopping & Checkout
+    contents:
+      - page: Qualification Modalities (Orders vs. Reimbursements)
+        path: ./pages/shopping-and-checkout/qualification-modalities.mdx
+      - page: Navigating the Truemed Marketplace
+        path: ./pages/shopping-and-checkout/navigating-the-truemed-marketplace.mdx
+      - page: Product Not Showing as Eligible at Checkout
+        path: ./pages/shopping-and-checkout/product-not-showing-as-eligible.mdx
+      - page: Order Tracking & Fulfillment
+        path: ./pages/shopping-and-checkout/order-tracking-and-fulfillment.mdx
+
+  - section: LMNs
+    contents:
+      - section: LMN Basics
+        contents:
+          - page: What is an LMN?
+            path: ./pages/lmns/what-is-an-lmn.mdx
+      - section: LMN Requests
+        contents:
+          - page: LMN Requests
+            path: ./pages/lmns/lmn-requests.mdx
+      - section: LMN Status & Troubleshooting
+        contents:
+          - page: LMN Status & Troubleshooting
+            path: ./pages/lmns/lmn-status-and-troubleshooting.mdx
+      - section: Updating Your LMN
+        contents:
+          - page: Updating Your LMN
+            path: ./pages/lmns/updating-your-lmn.mdx
+
+  - section: Reimbursements & Claims
+    contents:
+      - page: How to Reimburse
+        path: ./pages/reimbursements-and-claims/how-to-reimburse.mdx
+      - page: Why Was My Claim Denied?
+        path: ./pages/reimbursements-and-claims/why-was-my-claim-denied.mdx
+      - page: Denied Claims
+        path: ./pages/reimbursements-and-claims/denied-claims.mdx
+      - page: Receipts
+        path: ./pages/reimbursements-and-claims/receipts.mdx
+      - page: TPA vs. Healthcare Claim
+        path: ./pages/reimbursements-and-claims/tpa-vs-healthcare-claim.mdx
+      - page: Partial Eligibility & Mixed-Item Purchases
+        path: ./pages/reimbursements-and-claims/partial-eligibility-and-mixed-item-purchases.mdx
+      - section: Administrator Guides
+        contents:
+          - page: Submitting Your Claim by Administrator
+            path: ./pages/reimbursements-and-claims/submitting-your-claim-by-administrator.mdx
+
+  - section: Payment Issues & Questions
+    contents:
+      - page: Payment Issues & Questions
+        path: ./pages/payment-issues/payment-issues-and-questions.mdx
+
+  - section: Truemed Marketplace
+    contents:
+      - page: Truemed Marketplace Overview
+        path: ./pages/truemed-marketplace/truemed-marketplace-overview.mdx
+
+  - section: Truemed Dashboard
+    contents:
+      - page: Truemed Dashboard
+        path: ./pages/truemed-dashboard/truemed-dashboard.mdx
+      - page: Account & Sign-In Troubleshooting
+        path: ./pages/truemed-dashboard/account-and-sign-in-troubleshooting.mdx
+
+  - section: Misc.
+    contents:
+      - page: Truemed Warranty
+        path: ./pages/misc/truemed-warranty.mdx
+      - page: Misc.
+        path: ./pages/misc/misc.mdx
