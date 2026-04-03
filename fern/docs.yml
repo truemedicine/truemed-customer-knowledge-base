@@ -4,12 +4,10 @@ instances:
 title: Truemed Customer Help Center
 
 navigation:
-  - section: Truemed 101
+  - section: About Truemed
     contents:
       - page: How Truemed Works
         path: ./pages/truemed-101/how-truemed-works.mdx
-      - page: Top 10 FAQs
-        path: ./pages/truemed-101/top-10-faqs.mdx
 
   - section: HSA/FSA & Account Types
     contents:
