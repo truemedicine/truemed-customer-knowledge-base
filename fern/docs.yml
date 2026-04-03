@@ -11,8 +11,10 @@ navigation:
 
   - section: HSA/FSA & Account Types
     contents:
-      - page: HSA/FSA 101
-        path: ./pages/hsa-fsa-account-types/hsa-fsa-101.mdx
+      - page: What Are HSA and FSA Accounts?
+        path: ./pages/hsa-fsa-account-types/what-are-hsa-and-fsa-accounts.mdx
+      - page: HSA/FSA Accounts for Dependents
+        path: ./pages/hsa-fsa-account-types/hsa-fsa-accounts-for-dependents.mdx
       - page: HRA & Other Account Types
         path: ./pages/hsa-fsa-account-types/hra-and-other-account-types.mdx
 
