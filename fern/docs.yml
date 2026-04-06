@@ -41,6 +41,8 @@ navigation:
         path: ./pages/shopping-and-checkout/troubleshooting-hsa-fsa-card-declines.mdx
       - page: Can I Use My HSA/FSA Card on Subscriptions?
         path: ./pages/shopping-and-checkout/hsa-fsa-subscriptions.mdx
+      - page: Can I Pay with Both My HSA/FSA Card and a Credit Card?
+        path: ./pages/shopping-and-checkout/multicard-split-pay.mdx
 
   - section: LMNs
     contents:
