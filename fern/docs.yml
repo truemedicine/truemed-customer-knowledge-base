@@ -37,6 +37,8 @@ navigation:
         path: ./pages/shopping-and-checkout/product-not-showing-as-eligible.mdx
       - page: Order Tracking & Fulfillment
         path: ./pages/shopping-and-checkout/order-tracking-and-fulfillment.mdx
+      - page: Troubleshooting HSA/FSA Card Declines at Checkout
+        path: ./pages/shopping-and-checkout/troubleshooting-hsa-fsa-card-declines.mdx
 
   - section: LMNs
     contents:
