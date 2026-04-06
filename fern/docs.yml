@@ -3,6 +3,151 @@ instances:
 
 title: Truemed Customer Help Center
 
+redirects:
+  # Truemed 101
+  - source: /en/articles/2860609
+    destination: /truemed-101/how-truemed-works
+  - source: /en/articles/2861121
+    destination: /truemed-101/how-truemed-works
+  - source: /en/articles/5215361
+    destination: /truemed-101/how-truemed-works
+
+  # HSA/FSA Account Types
+  - source: /en/articles/2860289
+    destination: /hsa-fsa-account-types/what-are-hsa-and-fsa-accounts
+  - source: /en/articles/3199873
+    destination: /hsa-fsa-account-types/what-are-hsa-and-fsa-accounts
+  - source: /en/articles/5669249
+    destination: /hsa-fsa-account-types/what-are-hsa-and-fsa-accounts
+  - source: /en/articles/2860353
+    destination: /hsa-fsa-account-types/hra-and-other-account-types
+  - source: /en/articles/5215617
+    destination: /hsa-fsa-account-types/hra-and-other-account-types
+  - source: /en/articles/5215745
+    destination: /hsa-fsa-account-types/hra-and-other-account-types
+  - source: /en/articles/5215489
+    destination: /hsa-fsa-account-types/hsa-fsa-accounts-for-dependents
+
+  # Eligibility & Qualification
+  - source: /en/articles/3741889
+    destination: /eligibility-and-qualification/partial-eligibility
+  - source: /en/articles/2860673
+    destination: /eligibility-and-qualification/eligibility-and-qualification-overview
+  - source: /en/articles/5214337
+    destination: /eligibility-and-qualification/eligibility-and-qualification-overview
+  - source: /en/articles/5214593
+    destination: /eligibility-and-qualification/eligibility-and-qualification-overview
+  - source: /en/articles/5214977
+    destination: /eligibility-and-qualification/eligibility-and-qualification-overview
+  - source: /en/articles/5215169
+    destination: /eligibility-and-qualification/eligibility-and-qualification-overview
+  - source: /en/articles/5404161
+    destination: /eligibility-and-qualification/eligibility-and-qualification-overview
+  - source: /en/articles/5404929
+    destination: /eligibility-and-qualification/eligibility-and-qualification-overview
+  - source: /en/articles/6014721
+    destination: /eligibility-and-qualification/eligibility-and-qualification-overview
+
+  # Shopping & Checkout
+  - source: /en/articles/5985729
+    destination: /shopping-and-checkout/troubleshooting-hsa-fsa-card-declines
+  - source: /en/articles/5432897
+    destination: /shopping-and-checkout/troubleshooting-hsa-fsa-card-declines
+  - source: /en/articles/5213825
+    destination: /shopping-and-checkout/multicard-split-pay
+  - source: /en/articles/5215873
+    destination: /shopping-and-checkout/hsa-fsa-subscriptions
+  - source: /en/articles/5215553
+    destination: /shopping-and-checkout/hsa-fsa-subscriptions
+  - source: /en/articles/2860993
+    destination: /shopping-and-checkout/order-tracking-and-fulfillment
+
+  # LMNs
+  - source: /en/articles/2860865
+    destination: /lmns/what-is-an-lmn
+  - source: /en/articles/5215233
+    destination: /lmns/what-is-an-lmn
+  - source: /en/articles/5215297
+    destination: /lmns/what-is-an-lmn
+  - source: /en/articles/5214145
+    destination: /lmns/what-is-an-lmn
+  - source: /en/articles/6013633
+    destination: /lmns/what-is-an-lmn
+  - source: /en/articles/5214017
+    destination: /lmns/lmn-requests
+  - source: /en/articles/5214849
+    destination: /lmns/lmn-requests
+  - source: /en/articles/2860225
+    destination: /lmns/lmn-requests
+  - source: /en/articles/6014081
+    destination: /lmns/lmn-requests
+  - source: /en/articles/6014593
+    destination: /lmns/lmn-requests
+  - source: /en/articles/5214273
+    destination: /lmns/updating-your-lmn
+  - source: /en/articles/6014401
+    destination: /truemed-dashboard/truemed-dashboard
+  - source: /en/articles/2861057
+    destination: /truemed-dashboard/truemed-dashboard
+
+  # Reimbursements & Claims
+  - source: /en/articles/2860417
+    destination: /reimbursements-and-claims/receipts
+  - source: /en/articles/6014209
+    destination: /reimbursements-and-claims/receipts
+  - source: /en/articles/2860481
+    destination: /reimbursements-and-claims/denied-claims
+  - source: /en/articles/6012929
+    destination: /reimbursements-and-claims/denied-claims
+  - source: /en/articles/6013441
+    destination: /reimbursements-and-claims/denied-claims
+  - source: /en/articles/5216193
+    destination: /reimbursements-and-claims/how-to-reimburse
+  - source: /en/articles/6677441
+    destination: /reimbursements-and-claims/how-to-reimburse
+  - source: /en/articles/7937153
+    destination: /reimbursements-and-claims/how-to-reimburse
+  - source: /en/articles/6013761
+    destination: /reimbursements-and-claims/how-to-reimburse
+  - source: /en/articles/6013121
+    destination: /reimbursements-and-claims/why-was-my-claim-denied
+  - source: /en/articles/6013185
+    destination: /reimbursements-and-claims/why-was-my-claim-denied
+  - source: /en/articles/6013889
+    destination: /reimbursements-and-claims/partial-eligibility-and-mixed-item-purchases
+  - source: /en/articles/5216513
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5216641
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5217025
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5217089
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5217217
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5217281
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5217345
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5217409
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5217537
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5217601
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+  - source: /en/articles/5631297
+    destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
+
+  # Payment Issues
+  - source: /en/articles/6013953
+    destination: /payment-issues/payment-issues-and-questions
+  - source: /en/articles/6013825
+    destination: /payment-issues/payment-issues-and-questions
+
+  # Truemed Marketplace
+  - source: /en/articles/7mUhitnRBZNmVNcFxF6aiM
+    destination: /truemed-marketplace/truemed-marketplace-overview
+
 navigation:
   - section: About Truemed
     contents:
