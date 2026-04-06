@@ -1,18 +1,13 @@
 instances:
   - url: truemed-support.docs.buildwithfern.com
-
 title: Truemed Customer Help Center
-
 redirects:
-  # Truemed 101
   - source: /en/articles/2860609
     destination: /truemed-101/how-truemed-works
   - source: /en/articles/2861121
     destination: /truemed-101/how-truemed-works
   - source: /en/articles/5215361
     destination: /truemed-101/how-truemed-works
-
-  # HSA/FSA Account Types
   - source: /en/articles/2860289
     destination: /hsa-fsa-account-types/what-are-hsa-and-fsa-accounts
   - source: /en/articles/3199873
@@ -27,8 +22,6 @@ redirects:
     destination: /hsa-fsa-account-types/hra-and-other-account-types
   - source: /en/articles/5215489
     destination: /hsa-fsa-account-types/hsa-fsa-accounts-for-dependents
-
-  # Eligibility & Qualification
   - source: /en/articles/3741889
     destination: /eligibility-and-qualification/partial-eligibility
   - source: /en/articles/2860673
@@ -47,8 +40,6 @@ redirects:
     destination: /eligibility-and-qualification/eligibility-and-qualification-overview
   - source: /en/articles/6014721
     destination: /eligibility-and-qualification/eligibility-and-qualification-overview
-
-  # Shopping & Checkout
   - source: /en/articles/5985729
     destination: /shopping-and-checkout/troubleshooting-hsa-fsa-card-declines
   - source: /en/articles/5432897
@@ -61,8 +52,6 @@ redirects:
     destination: /shopping-and-checkout/hsa-fsa-subscriptions
   - source: /en/articles/2860993
     destination: /shopping-and-checkout/order-tracking-and-fulfillment
-
-  # LMNs
   - source: /en/articles/2860865
     destination: /lmns/what-is-an-lmn
   - source: /en/articles/5215233
@@ -89,8 +78,6 @@ redirects:
     destination: /truemed-dashboard/truemed-dashboard
   - source: /en/articles/2861057
     destination: /truemed-dashboard/truemed-dashboard
-
-  # Reimbursements & Claims
   - source: /en/articles/2860417
     destination: /reimbursements-and-claims/receipts
   - source: /en/articles/6014209
@@ -137,23 +124,17 @@ redirects:
     destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
   - source: /en/articles/5631297
     destination: /reimbursements-and-claims/submitting-your-claim-by-administrator
-
-  # Payment Issues
   - source: /en/articles/6013953
     destination: /payment-issues/payment-issues-and-questions
   - source: /en/articles/6013825
     destination: /payment-issues/payment-issues-and-questions
-
-  # Truemed Marketplace
   - source: /en/articles/7mUhitnRBZNmVNcFxF6aiM
     destination: /truemed-marketplace/truemed-marketplace-overview
-
 navigation:
   - section: About Truemed
     contents:
       - page: How Truemed Works
         path: ./pages/truemed-101/how-truemed-works.mdx
-
   - section: HSA/FSA & Account Types
     contents:
       - page: What Are HSA and FSA Accounts?
@@ -162,7 +143,6 @@ navigation:
         path: ./pages/hsa-fsa-account-types/hsa-fsa-accounts-for-dependents.mdx
       - page: HRA & Other Account Types
         path: ./pages/hsa-fsa-account-types/hra-and-other-account-types.mdx
-
   - section: Eligibility & Qualification
     contents:
       - page: Eligibility & Qualification Overview
@@ -171,7 +151,6 @@ navigation:
         path: ./pages/eligibility-and-qualification/partial-eligibility.mdx
       - page: Troubleshooting Your Qualification Survey
         path: ./pages/eligibility-and-qualification/troubleshooting-your-qualification-survey.mdx
-
   - section: Shopping & Checkout
     contents:
       - page: Qualification Modalities (Orders vs. Reimbursements)
@@ -188,8 +167,7 @@ navigation:
         path: ./pages/shopping-and-checkout/hsa-fsa-subscriptions.mdx
       - page: Can I Pay with Both My HSA/FSA Card and a Credit Card?
         path: ./pages/shopping-and-checkout/multicard-split-pay.mdx
-
-  - section: LMNs
+  - section: Letters of Medical Necessity (LMNs)
     contents:
       - section: LMN Basics
         contents:
@@ -207,7 +185,6 @@ navigation:
         contents:
           - page: Updating Your LMN
             path: ./pages/lmns/updating-your-lmn.mdx
-
   - section: Reimbursements & Claims
     contents:
       - page: How to Reimburse
@@ -226,24 +203,20 @@ navigation:
         contents:
           - page: Submitting Your Claim by Administrator
             path: ./pages/reimbursements-and-claims/submitting-your-claim-by-administrator.mdx
-
   - section: Payment Issues & Questions
     contents:
       - page: Payment Issues & Questions
         path: ./pages/payment-issues/payment-issues-and-questions.mdx
-
   - section: Truemed Marketplace
     contents:
       - page: Truemed Marketplace Overview
         path: ./pages/truemed-marketplace/truemed-marketplace-overview.mdx
-
   - section: Truemed Dashboard
     contents:
       - page: Truemed Dashboard
         path: ./pages/truemed-dashboard/truemed-dashboard.mdx
       - page: Account & Sign-In Troubleshooting
         path: ./pages/truemed-dashboard/account-and-sign-in-troubleshooting.mdx
-
   - section: Misc.
     contents:
       - page: Truemed Warranty
