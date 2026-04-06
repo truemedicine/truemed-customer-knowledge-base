@@ -22,6 +22,8 @@ navigation:
     contents:
       - page: Eligibility & Qualification Overview
         path: ./pages/eligibility-and-qualification/eligibility-and-qualification-overview.mdx
+      - page: Partial Eligibility
+        path: ./pages/eligibility-and-qualification/partial-eligibility.mdx
       - page: Troubleshooting Your Qualification Survey
         path: ./pages/eligibility-and-qualification/troubleshooting-your-qualification-survey.mdx
 
