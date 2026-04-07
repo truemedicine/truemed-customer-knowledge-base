@@ -1,5 +1,6 @@
 instances:
   - url: truemed-support.docs.buildwithfern.com
+    custom-domain: help.truemed.com
 title: Truemed Customer Help Center
 redirects:
   - source: /en/articles/2860609
