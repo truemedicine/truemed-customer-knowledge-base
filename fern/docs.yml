@@ -129,8 +129,7 @@ redirects:
     destination: /payment-issues-questions/payment-issues-questions
   - source: /en/articles/6013825
     destination: /payment-issues-questions/payment-issues-questions
-  - source: /en/articles/7mUhitnRBZNmVNcFxF6aiM
-    destination: /truemed-marketplace/truemed-marketplace-overview
+
 navigation:
   - section: About Truemed
     contents:
@@ -202,11 +201,7 @@ navigation:
     contents:
       - page: Payment Issues & Questions
         path: ./pages/payment-issues/payment-issues-and-questions.mdx
-  - section: Truemed Marketplace
-    contents:
-      - page: Truemed Marketplace Overview
-        path: ./pages/truemed-marketplace/truemed-marketplace-overview.mdx
-  - section: Truemed Dashboard
+- section: Truemed Dashboard
     contents:
       - page: Truemed Dashboard
         path: ./pages/truemed-dashboard/truemed-dashboard.mdx
