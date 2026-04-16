@@ -201,7 +201,7 @@ navigation:
     contents:
       - page: Payment Issues & Questions
         path: ./pages/payment-issues/payment-issues-and-questions.mdx
-- section: Truemed Dashboard
+  - section: Truemed Dashboard
     contents:
       - page: Truemed Dashboard
         path: ./pages/truemed-dashboard/truemed-dashboard.mdx
