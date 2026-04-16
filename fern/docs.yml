@@ -188,8 +188,6 @@ navigation:
         path: ./pages/reimbursements-and-claims/how-to-reimburse.mdx
       - page: Why Was My Claim Denied?
         path: ./pages/reimbursements-and-claims/why-was-my-claim-denied.mdx
-      - page: Denied Claims
-        path: ./pages/reimbursements-and-claims/denied-claims.mdx
       - page: Receipts
         path: ./pages/reimbursements-and-claims/receipts.mdx
       - page: TPA vs. Healthcare Claim
