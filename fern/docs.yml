@@ -176,12 +176,12 @@ navigation:
             path: ./pages/lmns/what-is-an-lmn.mdx
           - page: LMN Requirements
             path: ./pages/lmns/lmn-requirements.mdx
-      - page: LMN Requests
-        path: ./pages/lmns/lmn-requests.mdx
       - page: LMN Status & Troubleshooting
         path: ./pages/lmns/lmn-status-and-troubleshooting.mdx
       - page: Updating Your LMN
         path: ./pages/lmns/updating-your-lmn.mdx
+      - page: LMN Requests
+        path: ./pages/lmns/lmn-requests.mdx
   - section: Reimbursements & Claims
     contents:
       - page: How to Reimburse
