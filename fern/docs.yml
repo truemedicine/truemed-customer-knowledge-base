@@ -190,7 +190,7 @@ navigation:
         path: ./pages/reimbursements-and-claims/why-was-my-claim-denied.mdx
       - page: Receipts
         path: ./pages/reimbursements-and-claims/receipts.mdx
-      - page: HSA/FSA vs. Health Insurance: Know the Difference
+      - page: 'HSA/FSA vs. Health Insurance: Know the Difference'
         path: ./pages/reimbursements-and-claims/tpa-vs-healthcare-claim.mdx
       - page: Partial Eligibility & Mixed-Item Purchases
         path: ./pages/reimbursements-and-claims/partial-eligibility-and-mixed-item-purchases.mdx
