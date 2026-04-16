@@ -154,7 +154,7 @@ navigation:
         path: ./pages/eligibility-and-qualification/troubleshooting-your-qualification-survey.mdx
   - section: Shopping & Checkout
     contents:
-      - page: Qualification Modalities (Orders vs. Reimbursements)
+      - page: Ways to Use Truemed
         path: ./pages/shopping-and-checkout/qualification-modalities.mdx
       - page: Navigating the Truemed Marketplace
         path: ./pages/shopping-and-checkout/navigating-the-truemed-marketplace.mdx
