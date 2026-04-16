@@ -129,7 +129,6 @@ redirects:
     destination: /payment-issues-questions/payment-issues-questions
   - source: /en/articles/6013825
     destination: /payment-issues-questions/payment-issues-questions
-
 navigation:
   - section: About Truemed
     contents:
@@ -199,7 +198,7 @@ navigation:
             path: ./pages/reimbursements-and-claims/submitting-your-claim-by-administrator.mdx
   - section: Payment Issues & Questions
     contents:
-      - page: Payment Issues Troubleshooting
+      - page: Payment Issues & Questions
         path: ./pages/payment-issues/payment-issues-and-questions.mdx
   - section: Truemed Dashboard
     contents:
@@ -207,9 +206,6 @@ navigation:
         path: ./pages/truemed-dashboard/truemed-dashboard.mdx
       - page: Account & Sign-In Troubleshooting
         path: ./pages/truemed-dashboard/account-and-sign-in-troubleshooting.mdx
-  - section: Misc.
-    contents:
-      - page: Truemed Warranty
-        path: ./pages/misc/truemed-warranty.mdx
-      - page: Misc.
-        path: ./pages/misc/misc.mdx
+  - section: Miscellaneous
+    contents: []
+    hidden: true
