@@ -199,7 +199,7 @@ navigation:
             path: ./pages/reimbursements-and-claims/submitting-your-claim-by-administrator.mdx
   - section: Payment Issues & Questions
     contents:
-      - page: Payment Issues & Questions
+      - page: Payment Issues Troubleshooting
         path: ./pages/payment-issues/payment-issues-and-questions.mdx
   - section: Truemed Dashboard
     contents:
