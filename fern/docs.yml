@@ -195,8 +195,26 @@ navigation:
         path: ./pages/reimbursements-and-claims/partial-eligibility-and-mixed-item-purchases.mdx
       - section: Administrator Guides
         contents:
-          - page: Submitting Your Claim by Administrator
-            path: ./pages/reimbursements-and-claims/submitting-your-claim-by-administrator.mdx
+          - page: Optum Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/optum-reimbursement-guide.mdx
+          - page: HSA Bank Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/hsabank-reimbursement-guide.mdx
+          - page: Gusto Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/gusto-reimbursement-guide.mdx
+          - page: JustWorks Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/justworks-reimbursement-guide.mdx
+          - page: WEX Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/wex-reimbursement-guide.mdx
+          - page: 'Benefit Allocation Systems (BAS) Reimbursement Guide'
+            path: ./pages/reimbursements-and-claims/administrator-guides/bas-reimbursement-guide.mdx
+          - page: 'Employee Benefits Corporation (EBC) Reimbursement Guide'
+            path: ./pages/reimbursements-and-claims/administrator-guides/ebc-reimbursement-guide.mdx
+          - page: Payflex Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/payflex-reimbursement-guide.mdx
+          - page: Basic Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/basic-reimbursement-guide.mdx
+          - page: Navia Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/navia-reimbursement-guide.mdx
   - section: Payment Issues & Questions
     contents:
       - page: Payment Issues Troubleshooting
