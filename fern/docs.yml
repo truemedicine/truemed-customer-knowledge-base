@@ -231,10 +231,3 @@ navigation:
         path: ./pages/truemed-dashboard/truemed-dashboard.mdx
       - page: Account & Sign-In Troubleshooting
         path: ./pages/truemed-dashboard/account-and-sign-in-troubleshooting.mdx
-
-        logo:
-  dark: truemed-logo-teal.svg
-  light: truemed-logo-teal.svg
-colors:
-  accent-primary:
-    light: "#06576F"
