@@ -2,6 +2,12 @@ instances:
   - url: truemed-support.docs.buildwithfern.com
     custom-domain: help.truemed.com
 title: Truemed Customer Help Center
+logo:
+  dark: truemed-logo-teal.svg
+  light: truemed-logo-teal.svg
+colors:
+  accent-primary:
+    light: "#06576F"
 redirects:
   - source: /en/articles/2860609
     destination: /about-truemed/how-truemed-works
