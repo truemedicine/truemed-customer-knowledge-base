@@ -137,6 +137,9 @@ redirects:
     destination: /payment-issues-questions/payment-issues-questions
 
 navigation:
+  - page: Help Center Hub
+    path: ./pages/hub.mdx
+    slug: hub
   - section: About Truemed
     contents:
       - page: How Truemed Works
