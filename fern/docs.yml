@@ -91,11 +91,11 @@ redirects:
   - source: /en/articles/6014209
     destination: /reimbursements-claims/receipts
   - source: /en/articles/2860481
-    destination: /reimbursements-claims/denied-claims
+    destination: /reimbursements-claims/why-was-my-claim-denied
   - source: /en/articles/6012929
-    destination: /reimbursements-claims/denied-claims
+    destination: /reimbursements-claims/why-was-my-claim-denied
   - source: /en/articles/6013441
-    destination: /reimbursements-claims/denied-claims
+    destination: /reimbursements-claims/why-was-my-claim-denied
   - source: /en/articles/5216193
     destination: /reimbursements-claims/how-to-reimburse
   - source: /en/articles/6677441
