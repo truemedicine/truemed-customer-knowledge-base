@@ -111,25 +111,25 @@ redirects:
   - source: /en/articles/6013889
     destination: /reimbursements-claims/partial-eligibility-mixed-item-purchases
   - source: /en/articles/5216513
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/optum-reimbursement-guide
   - source: /en/articles/5216641
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/hsabank-reimbursement-guide
   - source: /en/articles/5217025
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/gusto-reimbursement-guide
   - source: /en/articles/5217089
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/justworks-reimbursement-guide
   - source: /en/articles/5217217
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/wex-reimbursement-guide
   - source: /en/articles/5217281
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/bas-reimbursement-guide
   - source: /en/articles/5217345
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/ebc-reimbursement-guide
   - source: /en/articles/5217409
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/payflex-reimbursement-guide
   - source: /en/articles/5217537
     destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
   - source: /en/articles/5217601
-    destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
+    destination: /reimbursements-claims/administrator-guides/navia-reimbursement-guide
   - source: /en/articles/5631297
     destination: /reimbursements-claims/administrator-guides/basic-reimbursement-guide
   - source: /en/articles/6013953
