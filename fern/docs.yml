@@ -237,3 +237,10 @@ navigation:
         path: ./pages/truemed-dashboard/truemed-dashboard.mdx
       - page: Account & Sign-In Troubleshooting
         path: ./pages/truemed-dashboard/account-and-sign-in-troubleshooting.mdx
+  - section: Pre-approved
+    hidden: true
+    contents:
+      - page: "Truemed's Always Eligible Marketplace: Support & Fulfillment"
+        path: ./pages/pre-approved/marketplace-support-and-fulfillment.mdx
+      - page: Frequently Asked Questions (FAQ) - Pre-approved
+        path: ./pages/pre-approved/faq-preapproved.mdx
