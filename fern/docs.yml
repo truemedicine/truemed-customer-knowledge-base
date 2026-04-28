@@ -195,6 +195,8 @@ navigation:
     contents:
       - page: How to Reimburse
         path: ./pages/reimbursements-and-claims/how-to-reimburse.mdx
+      - page: Submitting Your Claim by Administrator
+        path: ./pages/reimbursements-and-claims/submitting-your-claim-by-administrator.mdx
       - page: Why Was My Claim Denied?
         path: ./pages/reimbursements-and-claims/why-was-my-claim-denied.mdx
       - page: Receipts
