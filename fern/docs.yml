@@ -191,6 +191,8 @@ navigation:
         path: ./pages/lmns/updating-your-lmn.mdx
       - page: LMN Requests
         path: ./pages/lmns/lmn-requests.mdx
+      - page: Gym & Fitness Studio Membership LMN
+        path: ./pages/lmns/gym-studio-membership-lmn.mdx
   - section: Reimbursements & Claims
     contents:
       - page: How to Reimburse
@@ -237,6 +239,10 @@ navigation:
         path: ./pages/truemed-dashboard/truemed-dashboard.mdx
       - page: Account & Sign-In Troubleshooting
         path: ./pages/truemed-dashboard/account-and-sign-in-troubleshooting.mdx
+  - section: Contact & Support
+    contents:
+      - page: Contact & Support
+        path: ./pages/contact-support/contact-support.mdx
   - section: Pre-approved
     contents:
       - page: "Truemed's Always Eligible Marketplace: Support & Fulfillment"
