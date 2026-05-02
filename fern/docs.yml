@@ -136,6 +136,8 @@ redirects:
     destination: /payment-issues-questions/payment-issues-troubleshooting
   - source: /en/articles/6013825
     destination: /payment-issues-questions/payment-issues-troubleshooting
+  - source: /en/resources/truemed-launch-toolkit
+    destination: /resources/truemed-launch-toolkit
 
 navigation:
   - page: Help Center Hub
