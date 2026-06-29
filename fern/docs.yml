@@ -237,6 +237,8 @@ navigation:
             path: ./pages/reimbursements-and-claims/administrator-guides/justworks-reimbursement-guide.mdx
           - page: Navia Reimbursement Guide
             path: ./pages/reimbursements-and-claims/administrator-guides/navia-reimbursement-guide.mdx
+          - page: NueSynergy Reimbursement Guide
+            path: ./pages/reimbursements-and-claims/administrator-guides/nuesynergy-reimbursement-guide.mdx
           - page: Optum Reimbursement Guide
             path: ./pages/reimbursements-and-claims/administrator-guides/optum-reimbursement-guide.mdx
           - page: Payflex Reimbursement Guide
