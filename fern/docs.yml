@@ -10,6 +10,8 @@ logo:
 colors:
   accent-primary:
     light: "#06576F"
+js:
+  - path: ./assets/applied-chat.js
 ai-search:
   system-prompt: >-
     You are the Truemed Customer Help Center assistant. Answer customer questions
