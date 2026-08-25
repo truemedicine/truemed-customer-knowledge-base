@@ -10,6 +10,10 @@ logo:
 colors:
   accent-primary:
     light: "#06576F"
+css:
+  - ./css/savings-calculator.css
+js:
+  - path: ./js/savings-calculator.js
 ai-search:
   system-prompt: >-
     You are the Truemed Customer Help Center assistant. Answer customer questions
