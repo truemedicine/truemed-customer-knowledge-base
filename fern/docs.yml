@@ -154,6 +154,8 @@ redirects:
     destination: /payment-issues-questions/payment-issues-troubleshooting
   - source: /en/resources/truemed-launch-toolkit
     destination: /resources/truemed-launch-toolkit
+  - source: /shopping-checkout/can-i-combine-truemed-with-other-payment-options-like-affirm-afterpay-or-klarna
+    destination: /shopping-checkout/can-i-combine-truemed-with-other-payment-options-like-affirm-or-afterpay
 
 navigation:
   - page: Help Center Hub
@@ -195,7 +197,7 @@ navigation:
         path: ./pages/shopping-and-checkout/hsa-fsa-subscriptions.mdx
       - page: Can I Pay with Both My HSA/FSA Card and a Credit Card?
         path: ./pages/shopping-and-checkout/multicard-split-pay.mdx
-      - page: Can I Combine Truemed with other payment options like Affirm, Afterpay, or Klarna
+      - page: Can I Combine Truemed with other payment options like Affirm or Afterpay?
         path: ./pages/shopping-and-checkout/truemed-and-buy-now-pay-later.mdx
   - section: Letters of Medical Necessity (LMNs)
     contents:
