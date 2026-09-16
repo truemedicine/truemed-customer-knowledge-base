@@ -195,6 +195,8 @@ navigation:
         path: ./pages/shopping-and-checkout/hsa-fsa-subscriptions.mdx
       - page: Can I Pay with Both My HSA/FSA Card and a Credit Card?
         path: ./pages/shopping-and-checkout/multicard-split-pay.mdx
+      - page: Can I Combine Truemed with other payment options like Affirm, Afterpay, or Klarna
+        path: ./pages/shopping-and-checkout/truemed-and-buy-now-pay-later.mdx
   - section: Letters of Medical Necessity (LMNs)
     contents:
       - section: LMN Basics
