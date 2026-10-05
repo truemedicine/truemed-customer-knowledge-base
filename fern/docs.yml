@@ -223,6 +223,8 @@ navigation:
         path: ./pages/reimbursements-and-claims/submitting-your-claim-by-administrator.mdx
       - page: Why Was My Claim Denied?
         path: ./pages/reimbursements-and-claims/why-was-my-claim-denied.mdx
+      - page: Why Didn't I Get an LMN for My Purchase?
+        path: ./pages/reimbursements-and-claims/why-didnt-i-get-an-lmn.mdx
       - page: Receipts
         path: ./pages/reimbursements-and-claims/receipts.mdx
       - page: 'HSA/FSA vs. Health Insurance: Know the Difference'
