@@ -247,6 +247,8 @@ navigation:
             path: ./pages/reimbursements-and-claims/administrator-guides/payflex-reimbursement-guide.mdx
           - page: WEX Reimbursement Guide
             path: ./pages/reimbursements-and-claims/administrator-guides/wex-reimbursement-guide.mdx
+      - page: Can I Use Truemed for a Purchase I Already Made?
+        path: ./pages/reimbursements-and-claims/retroactive-purchases.mdx
   - section: Payment Issues & Questions
     contents:
       - page: Payment Issues Troubleshooting
