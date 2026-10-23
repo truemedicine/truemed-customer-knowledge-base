@@ -9,22 +9,13 @@ logo:
   href: https://www.truemed.com
 colors:
   accent-primary:
-    light: "#06576F"
+    light: '#06576F'
 css:
   - ./css/savings-calculator.css
 js:
   - path: ./js/savings-calculator.js
 ai-search:
-  system-prompt: >-
-    You are the Truemed Customer Help Center assistant. Answer customer questions
-    from the documentation whenever possible. If a question is off-topic, about a
-    specific brand or store, or something you cannot answer from the documentation,
-    do not simply refuse or say you can only answer documentation questions. Instead,
-    briefly point the customer to the right place: for help with their own order,
-    Letter of Medical Necessity (LMN), reimbursement, or account, tell them to email
-    support@truemed.com and include the email they used at checkout; to find Truemed
-    partner brands or shop eligible products, point them to truemed.com. Always route
-    the customer somewhere useful.
+  system-prompt: 'You are the Truemed Customer Help Center assistant. Answer customer questions from the documentation whenever possible. If a question is off-topic, about a specific brand or store, or something you cannot answer from the documentation, do not simply refuse or say you can only answer documentation questions. Instead, briefly point the customer to the right place: for help with their own order, Letter of Medical Necessity (LMN), reimbursement, or account, tell them to email support@truemed.com and include the email they used at checkout; to find Truemed partner brands or shop eligible products, point them to truemed.com. Always route the customer somewhere useful.'
 redirects:
   - source: /en/articles/2860609
     destination: /about-truemed/how-truemed-works
@@ -156,7 +147,6 @@ redirects:
     destination: /resources/truemed-launch-toolkit
   - source: /shopping-checkout/can-i-combine-truemed-with-other-payment-options-like-affirm-afterpay-or-klarna
     destination: /shopping-checkout/can-i-combine-truemed-with-other-payment-options-like-affirm-or-afterpay
-
 navigation:
   - page: Help Center Hub
     path: ./pages/hub.mdx
@@ -207,6 +197,8 @@ navigation:
             path: ./pages/lmns/what-is-an-lmn.mdx
           - page: LMN Requirements
             path: ./pages/lmns/lmn-requirements.mdx
+          - page: Who Can Write a Truemed Letter of Medical Necessity (LMN)?
+            path: ./pages/lmns/who-issues-truemed-lmn.mdx
       - page: LMN Status & Troubleshooting
         path: ./pages/lmns/lmn-status-and-troubleshooting.mdx
       - page: Updating Your LMN
@@ -235,9 +227,9 @@ navigation:
         contents:
           - page: Basic Reimbursement Guide
             path: ./pages/reimbursements-and-claims/administrator-guides/basic-reimbursement-guide.mdx
-          - page: 'Benefit Allocation Systems (BAS) Reimbursement Guide'
+          - page: Benefit Allocation Systems (BAS) Reimbursement Guide
             path: ./pages/reimbursements-and-claims/administrator-guides/bas-reimbursement-guide.mdx
-          - page: 'Employee Benefits Corporation (EBC) Reimbursement Guide'
+          - page: Employee Benefits Corporation (EBC) Reimbursement Guide
             path: ./pages/reimbursements-and-claims/administrator-guides/ebc-reimbursement-guide.mdx
           - page: Gusto Reimbursement Guide
             path: ./pages/reimbursements-and-claims/administrator-guides/gusto-reimbursement-guide.mdx
@@ -271,7 +263,7 @@ navigation:
         path: ./pages/contact-support/contact-support.mdx
   - section: Pre-approved
     contents:
-      - page: "Truemed's Always Eligible Marketplace: Support & Fulfillment"
+      - page: 'Truemed''s Always Eligible Marketplace: Support & Fulfillment'
         path: ./pages/pre-approved/marketplace-support-and-fulfillment.mdx
         hidden: true
       - page: Frequently Asked Questions (FAQ) - Pre-approved
