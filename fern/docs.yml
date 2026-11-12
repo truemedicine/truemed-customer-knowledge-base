@@ -155,6 +155,8 @@ navigation:
     contents:
       - page: How Truemed Works
         path: ./pages/truemed-101/how-truemed-works.mdx
+      - page: How Much Does Truemed Cost? Pricing and Fees Explained
+        path: ./pages/truemed-101/pricing.mdx
   - section: HSA/FSA & Account Types
     contents:
       - page: What Are HSA and FSA Accounts?
